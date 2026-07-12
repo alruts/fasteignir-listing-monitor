@@ -53,7 +53,21 @@ class Listing:
 
 FIELDNAMES = [f.name for f in fields(Listing)]
 CSV_COLUMNS = [
-    f for f in FIELDNAMES if f not in ("source", "first_seen", "last_seen", "raw_json")
+    "listing_id",
+    "url",
+    "address",
+    "postcode",
+    "price_isk",
+    "size_m2",
+    "rooms",
+    "bedrooms",
+    "bathrooms",
+    "property_type",
+    "open_house",
+    "listed_date",
+    "status",
+    "change_type",
+    "previous_price_isk",
 ]
 
 
