@@ -14,7 +14,7 @@ def test_flexible_parser_and_new_change():
                     "bedrooms": 2,
                     "bathrooms": 1,
                     "openHouseText": "Sunnudag 14:00–14:30",
-                    "url": "/property/123"
+                    "url": "/property/123",
                 }
             ]
         }
@@ -31,9 +31,18 @@ def test_flexible_parser_and_new_change():
 
 
 def test_price_change():
-    listing = to_listing({"id": "x", "address": "A", "price": 80_000_000}, "2026-07-12T12:00:00+00:00")
+    listing = to_listing(
+        {"id": "x", "address": "A", "price": 80_000_000}, "2026-07-12T12:00:00+00:00"
+    )
     previous = {"x": {k: "" for k in listing.__dict__}}
-    previous["x"].update({"listing_id": "x", "price_isk": "79000000", "status": "active", "first_seen": "old"})
+    previous["x"].update(
+        {
+            "listing_id": "x",
+            "price_isk": "79000000",
+            "status": "active",
+            "first_seen": "old",
+        }
+    )
     _, changes = merge([listing], previous, 3)
     assert changes[0]["change_type"] == "price"
     assert changes[0]["previous_price_isk"] == "79000000"
