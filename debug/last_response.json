@@ -1,5 +1,61 @@
 [
   {
+    "id": "1077371",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Kolagata",
+    "street_number": "1",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "117,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "25",
+    "image": "https://api-beta.fasteignir.is/pictures/1077371/549df7db98c99c11fe4282ee74c9771c-469x310.jpg",
+    "latitude": "64.14869517",
+    "longitude": "-21.93699171",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1077368",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Reykjastræti",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "102900000",
+    "size": "71,5",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "24",
+    "image": "https://api-beta.fasteignir.is/pictures/1077368/22aa9a2265cae4655b6811e056d1db43-469x310.jpg",
+    "latitude": "64.14937946",
+    "longitude": "-21.93513118",
+    "legit_realestate_agent": "Júlían J. K.  Jóhannsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1077363",
     "bedrooms": "5",
     "bathrooms": "3",
@@ -5727,34 +5783,6 @@
     "latitude": "64.14982016",
     "longitude": "-21.95231165",
     "legit_realestate_agent": null,
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1071171",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Reykjastræti",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "102900000",
-    "size": "71,5",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "24",
-    "image": "https://api-beta.fasteignir.is/pictures/1071171/8198968fe3a9d8f7573d2471bc33597c-469x310.jpg",
-    "latitude": "64.14937946",
-    "longitude": "-21.93513118",
-    "legit_realestate_agent": "Júlían J. K.  Jóhannsson",
     "openhouse": {
       "property": null,
       "date": null,
