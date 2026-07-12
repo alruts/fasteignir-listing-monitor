@@ -65,6 +65,7 @@ CSV_COLUMNS = [
     "property_type",
     "open_house",
     "listed_date",
+    "first_fetched",
     "status",
     "change_type",
     "previous_price_isk",
@@ -369,6 +370,10 @@ def save_rows(rows: dict[str, dict[str, str]]) -> None:
     )
     for row in ordered:
         row["open_house"] = format_open_house(row.get("open_house", ""))
+        first_seen = row.get("first_seen", "")
+        row["first_fetched"] = (
+            first_seen[:10] if first_seen and not row.get("change_type") else ""
+        )
     with CSV_PATH.open("w", encoding="utf-8", newline="") as handle:
         writer = csv.DictWriter(handle, fieldnames=CSV_COLUMNS, extrasaction="ignore")
         writer.writeheader()
@@ -467,7 +472,7 @@ def main() -> int:
     listings = [
         x
         for x in listings
-        if x.price_isk and 65_000_000 <= float(x.price_isk) <= 80_000_000
+        if x.price_isk and 60_000_000 <= float(x.price_isk) <= 80_000_000
     ]
     listings = [x for x in listings if x.property_type == "Fjölbýlishús"]
     listings = [x for x in listings if x.size_m2 and 70 <= float(x.size_m2) <= 120]
