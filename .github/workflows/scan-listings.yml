@@ -67,6 +67,5 @@ jobs:
             echo "No database changes to commit"
           else
             git commit -m "Update house listings"
-            git pull --rebase
-            git push
+            git push --force-with-lease
           fi
