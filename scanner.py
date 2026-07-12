@@ -465,7 +465,9 @@ def main() -> int:
     listings = [to_listing(record, seen_at) for record in records]
     listings = [x for x in listings if x.address or x.url]
     listings = [
-        x for x in listings if not x.price_isk or float(x.price_isk) <= 80_000_000
+        x
+        for x in listings
+        if x.price_isk and 65_000_000 <= float(x.price_isk) <= 80_000_000
     ]
     listings = [x for x in listings if x.property_type == "Fjölbýlishús"]
     listings = [x for x in listings if not x.size_m2 or float(x.size_m2) <= 120]
