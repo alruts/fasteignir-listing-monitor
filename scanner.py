@@ -470,7 +470,7 @@ def main() -> int:
         if x.price_isk and 65_000_000 <= float(x.price_isk) <= 80_000_000
     ]
     listings = [x for x in listings if x.property_type == "Fjölbýlishús"]
-    listings = [x for x in listings if not x.size_m2 or float(x.size_m2) <= 120]
+    listings = [x for x in listings if x.size_m2 and 70 <= float(x.size_m2) <= 120]
     if not listings:
         raise RuntimeError(
             f"Records were found, but none could be parsed. Inspect {DEBUG_PATH}"
