@@ -1,0 +1,70 @@
+name: Scan house listings
+
+on:
+  schedule:
+    # GitHub cron is UTC. Iceland is UTC year-round.
+    - cron: "7 8,13,19 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: house-listing-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Scan listings
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scanner.py
+
+      - name: Add run summary
+        if: always()
+        run: |
+          if [ -f data/latest_changes.json ]; then
+            python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json
+          from pathlib import Path
+          changes = json.loads(Path('data/latest_changes.json').read_text())
+          print(f"## House listing scan\n\nChanges detected: **{len(changes)}**\n")
+          for x in changes[:20]:
+              print(f"- **{x.get('change_type','change')}** — [{x.get('address','listing')}]({x.get('url','')}) — {x.get('price_isk','')} ISK")
+          PY
+          fi
+
+      - name: Commit updated database
+        run: |
+          git config user.name "house-listing-bot"
+          git config user.email "house-listing-bot@users.noreply.github.com"
+          git add data/listings.csv data/latest_changes.json
+          if git diff --cached --quiet; then
+            echo "No database changes to commit"
+          else
+            git commit -m "Update house listings"
+            git pull --rebase
+            git push
+          fi

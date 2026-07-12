@@ -1,0 +1,16 @@
+{
+  "search_url": "https://fasteignir.visir.is/search/results/?stype=sale#/?zip=101,107&area=70,1000&price=65000000,80000000&bedroom=2,10&bathroom=1,10&stype=sale",
+  "api_url": "https://fasteignir.visir.is/api/search",
+  "query": {
+    "onpage": 1000,
+    "page": 1,
+    "zip": "101,107",
+    "area": "70,1000",
+    "price": "65000000,80000000",
+    "bedroom": "2,10",
+    "bathroom": "1,10",
+    "stype": "sale"
+  },
+  "timezone": "Atlantic/Reykjavik",
+  "missing_runs_before_inactive": 3
+}
