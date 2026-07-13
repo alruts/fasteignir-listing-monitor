@@ -6,7 +6,6 @@ import json
 import logging
 import os
 import re
-import sys
 from dataclasses import asdict, dataclass, fields
 from datetime import datetime, timezone
 from pathlib import Path
@@ -325,13 +324,18 @@ def to_listing(item: dict[str, Any], seen_at: str) -> Listing:
 
 
 def fetch_payload(config: dict[str, Any]) -> Any:
-    headers = {
-        "User-Agent": "Mozilla/5.0 (compatible; personal-listing-monitor/1.0; +https://github.com/)",
-        "Accept": "application/json,text/plain,*/*",
-        "Referer": config["search_url"],
+    query = {
+        "onpage": 1000,
+        "page": 1,
+        "zip": config["zip"],
+        "area": f"{config['area_min']},{config['area_max']}",
+        "price": f"{config['price_min']},{config['price_max']}",
+        "bedroom": f"{config['bedroom_min']},{config['bedroom_max']}",
+        "bathroom": f"{config['bathroom_min']},{config['bathroom_max']}",
+        "stype": "sale",
     }
     response = requests.get(
-        config["api_url"], params=config["query"], headers=headers, timeout=45
+        config["api_url"], params=query, timeout=45
     )
     response.raise_for_status()
     try:
@@ -472,10 +476,16 @@ def main() -> int:
     listings = [
         x
         for x in listings
-        if x.price_isk and 60_000_000 <= float(x.price_isk) <= 80_000_000
+        if x.price_isk
+        and config["price_min"] <= float(x.price_isk) <= config["price_max"]
     ]
     listings = [x for x in listings if x.property_type == "Fjölbýlishús"]
-    listings = [x for x in listings if x.size_m2 and 70 <= float(x.size_m2) <= 120]
+    listings = [
+        x
+        for x in listings
+        if x.size_m2
+        and config["area_min"] <= float(x.size_m2) <= config["area_max"]
+    ]
     if not listings:
         raise RuntimeError(
             f"Records were found, but none could be parsed. Inspect {DEBUG_PATH}"
