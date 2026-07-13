@@ -3197,35 +3197,6 @@
     }
   },
   {
-    "id": "1076903",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Kolagata",
-    "street_number": "1 (204)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "0",
-    "size": "117,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1076903/386a01f16f11742865755bd0236f34cd-469x310.jpg",
-    "latitude": "64.148788",
-    "longitude": "-21.93732",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1076903",
-      "date": "2026-07-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-07-11 10:42:27"
-    }
-  },
-  {
     "id": "1076851",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -19366,11 +19337,11 @@
     "size": "240",
     "category": "Atvinnuhúsnæði",
     "rooms": "0",
-    "images_nr": "3",
+    "images_nr": "0",
     "image": "https://api-beta.fasteignir.is/pictures/1066241/84c169c208629cfa7b3c71be9c9887cb-469x310.jpg",
     "latitude": "64.153255",
     "longitude": "-21.950618",
-    "legit_realestate_agent": "Gabríel Máni Hallson",
+    "legit_realestate_agent": null,
     "openhouse": {
       "property": null,
       "date": null,
@@ -28082,6 +28053,34 @@
     "latitude": "64.14187097",
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1044445",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Snorrabraut",
+    "street_number": "62",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "64900000",
+    "size": "53,8",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "25",
+    "image": "https://api-beta.fasteignir.is/pictures/1044445/bc6a214e18566693aedd6abff9fff52d-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Hilmar Þór Hafsteinsson",
     "openhouse": {
       "property": null,
       "date": null,
