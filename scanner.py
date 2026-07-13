@@ -486,6 +486,12 @@ def main() -> int:
         if x.size_m2
         and config["area_min"] <= float(x.size_m2) <= config["area_max"]
     ]
+    listings = [
+        x
+        for x in listings
+        if x.bedrooms
+        and config["bedroom_min"] <= float(x.bedrooms) <= config["bedroom_max"]
+    ]
     if not listings:
         raise RuntimeError(
             f"Records were found, but none could be parsed. Inspect {DEBUG_PATH}"
