@@ -1,5 +1,802 @@
 [
   {
+    "id": "1080433",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Fálkagata",
+    "street_number": "26",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "47700000",
+    "size": "38,9",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "14",
+    "image": "https://api-beta.fasteignir.is/pictures/1080433/f7c60022cc28cfb127fd5e7c3dcff237-469x310.jpg",
+    "latitude": "64.13811937",
+    "longitude": "-21.95802946",
+    "legit_realestate_agent": "Eggert Maríuson",
+    "openhouse": {
+      "property_id": "1080433",
+      "date": "2026-07-21",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": " ",
+      "added_at": "2026-07-17 14:42:36"
+    }
+  },
+  {
+    "id": "1080428",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "street_name": "Ásvallagata",
+    "street_number": "22",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "179000000",
+    "size": "244,2",
+    "category": "Fjölbýlishús",
+    "rooms": "7",
+    "images_nr": "61",
+    "image": "https://api-beta.fasteignir.is/pictures/1080428/25983ad7a34de12fcb32583490113e18-469x310.jpg",
+    "latitude": "64.146522",
+    "longitude": "-21.952486",
+    "legit_realestate_agent": "Viðar Böðvarsson",
+    "openhouse": {
+      "property_id": "1080428",
+      "date": "2026-07-22",
+      "time_start": "12:00:00",
+      "time_end": "12:30:00",
+      "description": null,
+      "added_at": "2026-07-17 14:37:36"
+    }
+  },
+  {
+    "id": "1080425",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Ásvallagata",
+    "street_number": "22",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "79800000",
+    "size": "93,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "33",
+    "image": "https://api-beta.fasteignir.is/pictures/1080425/1897bf74e2a0a2ecf7e03d18a1ef3f37-469x310.jpg",
+    "latitude": "64.146522",
+    "longitude": "-21.952486",
+    "legit_realestate_agent": "Viðar Böðvarsson",
+    "openhouse": {
+      "property_id": "1080425",
+      "date": "2026-07-22",
+      "time_start": "12:00:00",
+      "time_end": "12:30:00",
+      "description": null,
+      "added_at": "2026-07-17 14:34:21"
+    }
+  },
+  {
+    "id": "1080424",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Laufásvegur",
+    "street_number": "10",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "55900000",
+    "size": "60",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "28",
+    "image": "https://api-beta.fasteignir.is/pictures/1080424/d1dc831557ea8021f91ca2d45699ee19-469x310.jpg",
+    "latitude": "64.14438045",
+    "longitude": "-21.93809521",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property_id": "1080424",
+      "date": "2026-07-19",
+      "time_start": "14:15:00",
+      "time_end": "14:30:00",
+      "description": "Opið hús: Laufásvegur 10, 101 Reykjavík, Íbúð merkt: 01 00 01.  Jason sími 7751515. Eignin verður sýnd sunnudaginn 19. júlí 2026 milli kl. 14:15 og kl. 14:30.",
+      "added_at": "2026-07-17 14:32:45"
+    }
+  },
+  {
+    "id": "1080422",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Einholt",
+    "street_number": "9",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "59990000",
+    "size": "71,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1080422/b95d92336914505269f070f9d55d9c11-469x310.jpg",
+    "latitude": "64.139863",
+    "longitude": "-21.911975",
+    "legit_realestate_agent": "Viðar Böðvarsson",
+    "openhouse": {
+      "property_id": "1080422",
+      "date": "2026-07-20",
+      "time_start": "16:30:00",
+      "time_end": "17:00:00",
+      "description": null,
+      "added_at": "2026-07-17 14:30:26"
+    }
+  },
+  {
+    "id": "1080420",
+    "bedrooms": "8",
+    "bathrooms": "4",
+    "street_name": "Ásvallagata",
+    "street_number": "22",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "258800000",
+    "size": "338",
+    "category": "Fjölbýlishús",
+    "rooms": "10",
+    "images_nr": "87",
+    "image": "https://api-beta.fasteignir.is/pictures/1080420/7c34599aa333ce19a8eb734a7c074a74-469x310.jpg",
+    "latitude": "64.146522",
+    "longitude": "-21.952486",
+    "legit_realestate_agent": "Viðar Böðvarsson",
+    "openhouse": {
+      "property_id": "1080420",
+      "date": "2026-07-22",
+      "time_start": "12:00:00",
+      "time_end": "12:30:00",
+      "description": null,
+      "added_at": "2026-07-17 14:29:03"
+    }
+  },
+  {
+    "id": "1080412",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Víðimelur",
+    "street_number": "60",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "102900000",
+    "size": "103,4",
+    "category": "Hæð",
+    "rooms": "4",
+    "images_nr": "32",
+    "image": "https://api-beta.fasteignir.is/pictures/1080412/c60b1a4af731d3610ba65944eff0a556-469x310.jpg",
+    "latitude": "64.14633508",
+    "longitude": "-21.95648112",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property_id": "1080412",
+      "date": "2026-07-19",
+      "time_start": "13:40:00",
+      "time_end": "14:00:00",
+      "description": "Opið hús: Víðimelur 60, 107 Reykjavík.  Eignin verður sýnd sunnudaginn 19. júlí 2026 milli kl. 13:40 og kl. 14:00.",
+      "added_at": "2026-07-17 14:04:35"
+    }
+  },
+  {
+    "id": "1080353",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Vesturvin V3 íb 501",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "210000000",
+    "size": "141",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "19",
+    "image": "https://api-beta.fasteignir.is/pictures/1080353/0a2a1a96b032e75d96c39192b609cd4b-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080353",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:21:09"
+    }
+  },
+  {
+    "id": "1080354",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Hallgerðargata",
+    "street_number": "5",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "63,3",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "25",
+    "image": "https://api-beta.fasteignir.is/pictures/1080354/e8056c19c84e7cf3af23cb5ad16924cf-469x310.jpg",
+    "latitude": "64.14758478",
+    "longitude": "-21.89181247",
+    "legit_realestate_agent": "Andri Freyr Halldórsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080349",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V3 - íbúð 102",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "69700000",
+    "size": "66,7",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "25",
+    "image": "https://api-beta.fasteignir.is/pictures/1080349/36675cad96651daacd5a011e2ec5ef5c-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080349",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:20:55"
+    }
+  },
+  {
+    "id": "1080348",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Bríetartún",
+    "street_number": "11",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "126900000",
+    "size": "130,7",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "43",
+    "image": "https://api-beta.fasteignir.is/pictures/1080348/69c3c63fbfd547cf5990e87175aa7db0-469x310.jpg",
+    "latitude": "64.14406169",
+    "longitude": "-21.90943627",
+    "legit_realestate_agent": "Andri Freyr Halldórsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080346",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V3 íb 211",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "79900000",
+    "size": "74,8",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1080346/5c9de285e591ab62994af6f21e90b149-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080346",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:20:46"
+    }
+  },
+  {
+    "id": "1080343",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V2 íb 203",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "103500000",
+    "size": "202,4",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "31",
+    "image": "https://api-beta.fasteignir.is/pictures/1080343/0d5dd40623b9188ad8cd1c3fafe7a69f-469x310.jpg",
+    "latitude": "64.15211253",
+    "longitude": "21.95320158",
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080343",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:20:41"
+    }
+  },
+  {
+    "id": "1080342",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V1 íb 408",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "102400000",
+    "size": "95,7",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/1080342/25d0401f38393c31fa00199d78cc95b4-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080342",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:20:32"
+    }
+  },
+  {
+    "id": "1080341",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V1 íb 208",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "97000000",
+    "size": "94,2",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "47",
+    "image": "https://api-beta.fasteignir.is/pictures/1080341/67eb0c0e1c6ff233aede2e075e86962b-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property_id": "1080341",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-17 13:20:24"
+    }
+  },
+  {
+    "id": "1080330",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Skipholt",
+    "street_number": "70",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "56500000",
+    "size": "53,3",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1080330/ae7c7e2bf4c69314e15c1b6720f2b260-469x310.jpg",
+    "latitude": "64.13762763",
+    "longitude": "-21.89759438",
+    "legit_realestate_agent": "Eysteinn Sigurðsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080326",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Blönduhlíð",
+    "street_number": "16",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "82500000",
+    "size": "102,8",
+    "category": "Hæð",
+    "rooms": "3",
+    "images_nr": "19",
+    "image": "https://api-beta.fasteignir.is/pictures/1080326/820dd228869fc86f58aa3e34529dfef1-469x310.jpg",
+    "latitude": "64.1320073",
+    "longitude": "-21.9114131",
+    "legit_realestate_agent": "Edda Svavarsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080314",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Laugaborg",
+    "street_number": "(401)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "179000000",
+    "size": "144,2",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1080314/2034586a236f3625b4bcb915644e825a-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080313",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "315",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "86000000",
+    "size": "82,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "18",
+    "image": "https://api-beta.fasteignir.is/pictures/1080313/a355e8c63d8db8e3eb53650a9cdb160d-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080312",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "313",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "119900000",
+    "size": "118",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1080312/d3f4edf09886be1da11b6247a8ad7117-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080311",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "409",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "97000000",
+    "size": "98,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "18",
+    "image": "https://api-beta.fasteignir.is/pictures/1080311/680747678814bd385e0f5d11ced8dbf5-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080308",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Drápuhlíð",
+    "street_number": "30",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "97000000",
+    "size": "107,9",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "23",
+    "image": "https://api-beta.fasteignir.is/pictures/1080308/76343894a5740605e2d74942527f75fa-469x310.jpg",
+    "latitude": "64.132666",
+    "longitude": "-21.911075",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080307",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0221",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "99900000",
+    "size": "102,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "11",
+    "image": "https://api-beta.fasteignir.is/pictures/1080307/158410e032418ec58cca998b90eb94fd-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080304",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0420",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "112900000",
+    "size": "112,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "10",
+    "image": "https://api-beta.fasteignir.is/pictures/1080304/bf844384ce59dd0bd3d08748a28efa4d-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080303",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0320",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "104400000",
+    "size": "107,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "11",
+    "image": "https://api-beta.fasteignir.is/pictures/1080303/aead5ee19a60626b0bfb8e3caec42293-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Böðvar Eggertsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080293",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Skúlagata",
+    "street_number": "40",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "52900000",
+    "size": "63,4",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1080293/7f8cfec167c53f07f9664efd97870aef-469x310.jpg",
+    "latitude": "64.14487647",
+    "longitude": "-21.91755578",
+    "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1014350",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Bólstaðarhlíð",
+    "street_number": "48",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "76700000",
+    "size": "96",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "30",
+    "image": "https://api-beta.fasteignir.is/pictures/1014350/7c354f0bc940c25effe8212e96e1d655-469x310.jpg",
+    "latitude": "64.13502355",
+    "longitude": "-21.89849268",
+    "legit_realestate_agent": "Hrafnkell P. H. Pálmason",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1080268",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Grandavegur",
+    "street_number": "11",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "115000000",
+    "size": "134,6",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "3",
+    "image": "https://api-beta.fasteignir.is/pictures/1080268/6808db277a94657a0b26c9e8cbdaca96-469x310.jpg",
+    "latitude": "64.14883503",
+    "longitude": "-21.96125051",
+    "legit_realestate_agent": "Guðmundur Th. Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1080217",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -112,6 +909,34 @@
       "time_end": "12:30:00",
       "description": "Opið hús: Nönnugata 16, 101 Reykjavík, Íbúð merkt: 01 01 02.  Eignin verður sýnd miðvikudaginn 22. júlí 2026 milli kl. 12:00 og kl. 12:30.",
       "added_at": "2026-07-17 07:31:42"
+    }
+  },
+  {
+    "id": "1080159",
+    "bedrooms": "7",
+    "bathrooms": "4",
+    "street_name": "Suðurgata",
+    "street_number": "100",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "179900000",
+    "size": "201,3",
+    "category": "Einbýlishús",
+    "rooms": "8",
+    "images_nr": "52",
+    "image": "https://api-beta.fasteignir.is/pictures/1080159/d7fee9a0028fc2cd171471196daba2e0-469x310.jpg",
+    "latitude": "64.13756201",
+    "longitude": "-21.95464368",
+    "legit_realestate_agent": "Sveinn Gíslason",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -612,11 +1437,12 @@
     "longitude": "-21.92929062",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1080067",
+      "date": "2026-07-19",
+      "time_start": "12:30:00",
+      "time_end": "12:55:00",
+      "description": "Opið hús: Klapparstígur 28, 101 Reykjavík, Íbúð merkt: 01 02 01.  Eignin verður sýnd sunnudaginn 19. júlí 2026 milli kl. 12:30 og kl. 12:55.",
+      "added_at": "2026-07-17 14:22:19"
     }
   },
   {
@@ -640,11 +1466,12 @@
     "longitude": "-21.92931453",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1080066",
+      "date": "2026-07-19",
+      "time_start": "12:30:00",
+      "time_end": "13:00:00",
+      "description": "Opið hús: Klapparstígur 30, 101 Reykjavík, Íbúð merkt: 01 03 02.  Eignin verður sýnd sunnudaginn 19. júlí 2026 milli kl. 12:30 og kl. 13:00.",
+      "added_at": "2026-07-17 14:21:37"
     }
   },
   {
@@ -893,11 +1720,12 @@
     "longitude": "-21.94883217",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1079955",
+      "date": "2026-07-20",
+      "time_start": "12:00:00",
+      "time_end": "12:30:00",
+      "description": "Opið hús: Hávallagata 13, 101 Reykjavík, Íbúð merkt: 01 01 01.  Eignin verður sýnd mánudaginn 20. júlí 2026 milli kl. 12:00 og kl. 12:30.",
+      "added_at": "2026-07-16 13:59:57"
     }
   },
   {
@@ -1435,62 +2263,6 @@
     }
   },
   {
-    "id": "1079772",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Hallgerðargata",
-    "street_number": "5",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "63,3",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1079772/b827e47fd4cedb279a556b101612b4d0-469x310.jpg",
-    "latitude": "64.14758478",
-    "longitude": "-21.89181247",
-    "legit_realestate_agent": "Andri Freyr Halldórsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1079767",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Bríetartún",
-    "street_number": "11",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "126900000",
-    "size": "130,7",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "43",
-    "image": "https://api-beta.fasteignir.is/pictures/1079767/ef25380bdac7ed2235f4db15d0d67606-469x310.jpg",
-    "latitude": "64.14406169",
-    "longitude": "-21.90943627",
-    "legit_realestate_agent": "Andri Freyr Halldórsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1079752",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -1745,7 +2517,7 @@
   },
   {
     "id": "1079668",
-    "bedrooms": "0",
+    "bedrooms": "1",
     "bathrooms": "1",
     "street_name": "Bárugata",
     "street_number": "21",
@@ -1759,16 +2531,17 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1079668/c8321e300b8b0f8a0d7fbe82aea2c2cc-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1079668/d175c08b0d4708f8187c4da25bbab20a-469x310.jpg",
     "latitude": "64.14929061",
     "longitude": "-21.9478945",
     "legit_realestate_agent": "Dagbjartur Willardsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1079668",
+      "date": "2026-07-20",
+      "time_start": "17:15:00",
+      "time_end": "17:45:00",
+      "description": "Opið hús: Bárugata 21, 101 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd mánudaginn 20. júlí 2026 milli kl. 17:15 og kl. 17:45.",
+      "added_at": "2026-07-17 13:03:28"
     }
   },
   {
@@ -4601,62 +5374,6 @@
     }
   },
   {
-    "id": "1078895",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Drápuhlíð",
-    "street_number": "30",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "97000000",
-    "size": "107,9",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "23",
-    "image": "https://api-beta.fasteignir.is/pictures/1078895/b1314170e4c7b804b081487cce4cd0d4-469x310.jpg",
-    "latitude": "64.132666",
-    "longitude": "-21.911075",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078890",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0420",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "112900000",
-    "size": "112,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "10",
-    "image": "https://api-beta.fasteignir.is/pictures/1078890/ae9a8caba6d6354f04416e70ccc8f01b-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1078886",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -4676,174 +5393,6 @@
     "latitude": "64.149133",
     "longitude": "-21.94279",
     "legit_realestate_agent": "Þröstur Þórhallsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078885",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0221",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "99900000",
-    "size": "102,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "11",
-    "image": "https://api-beta.fasteignir.is/pictures/1078885/8a008ce1d9065550ab432215bb631536-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078884",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0320",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "104400000",
-    "size": "107,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "11",
-    "image": "https://api-beta.fasteignir.is/pictures/1078884/de91ae28c3550f3472123e7e73cc9845-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078882",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "409",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "97000000",
-    "size": "98,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "18",
-    "image": "https://api-beta.fasteignir.is/pictures/1078882/613164982b15e72cb56725a49c174f30-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078881",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "315",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "86000000",
-    "size": "82,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "18",
-    "image": "https://api-beta.fasteignir.is/pictures/1078881/7bb478275c4f54bdd5fe1170612579a9-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078880",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "313",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "119900000",
-    "size": "118",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1078880/1b064d0dd5f32ba59296e56cc880c39a-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Böðvar Eggertsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1078879",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Laugaborg",
-    "street_number": "(401)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "179000000",
-    "size": "144,2",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "13",
-    "image": "https://api-beta.fasteignir.is/pictures/1078879/8839236b3220cdfef57b6173ee608bf8-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Böðvar Eggertsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -7528,8 +8077,8 @@
     "size": "95,7",
     "category": "Fjölbýlishús",
     "rooms": "4",
-    "images_nr": "32",
-    "image": "https://api-beta.fasteignir.is/pictures/1078211/035bba054e7f8da3ceda4b0a2361e1bc-469x310.jpg",
+    "images_nr": "31",
+    "image": "https://api-beta.fasteignir.is/pictures/1078211/34b555f6c55d9b4742227d7e0a806b83-469x310.jpg",
     "latitude": "64.13203962",
     "longitude": "-21.91515748",
     "legit_realestate_agent": "Anna Sigurðardóttir",
@@ -7984,34 +8533,6 @@
     "latitude": "64.14972494",
     "longitude": "-21.94199664",
     "legit_realestate_agent": "Hilmar Þór Hafsteinsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1013014",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Bólstaðarhlíð",
-    "street_number": "48",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "76700000",
-    "size": "96",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "30",
-    "image": "https://api-beta.fasteignir.is/pictures/1013014/a82a190c696348eeaa3773ee1e2db88e-469x310.jpg",
-    "latitude": "64.13502355",
-    "longitude": "-21.89849268",
-    "legit_realestate_agent": "Hrafnkell P. H. Pálmason",
     "openhouse": {
       "property": null,
       "date": null,
@@ -9085,34 +9606,6 @@
     }
   },
   {
-    "id": "1077796",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Kolagata",
-    "street_number": "2 (311)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "119000000",
-    "size": "92,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "32",
-    "image": "https://api-beta.fasteignir.is/pictures/1077796/6b4cd18a42297d5d3545a4f351be6a32-469x310.jpg",
-    "latitude": "64.148636",
-    "longitude": "-21.937296",
-    "legit_realestate_agent": "Móeiður Svala",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1077795",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -9132,6 +9625,34 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Margrét Rós Einarsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1077796",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Kolagata",
+    "street_number": "2 (311)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "119000000",
+    "size": "92,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "32",
+    "image": "https://api-beta.fasteignir.is/pictures/1077796/6b4cd18a42297d5d3545a4f351be6a32-469x310.jpg",
+    "latitude": "64.148636",
+    "longitude": "-21.937296",
+    "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
       "property": null,
       "date": null,
@@ -9548,7 +10069,7 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "37",
-    "image": "https://api-beta.fasteignir.is/pictures/857273/2c11e81d7a83c8765735762cbe0fa6aa-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/857273/c9bc9c5cf40d266e7bab5589db15d357-469x310.jpg",
     "latitude": "64.15062983",
     "longitude": "-21.96281717",
     "legit_realestate_agent": "Sigrún Gréta Helgadóttir",
@@ -11159,34 +11680,6 @@
     }
   },
   {
-    "id": "1076145",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Ásvallagata",
-    "street_number": "22",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "79800000",
-    "size": "93,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1076145/1c5e96fe44286e55eded50b702ecf32e-469x310.jpg",
-    "latitude": "64.146522",
-    "longitude": "-21.952486",
-    "legit_realestate_agent": "Viðar Böðvarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1076138",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -11262,34 +11755,6 @@
     "latitude": "64.152448",
     "longitude": "-21.95247",
     "legit_realestate_agent": "Svan G Guðlaugsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1076046",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Laufásvegur",
-    "street_number": "10",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "57900000",
-    "size": "60",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "28",
-    "image": "https://api-beta.fasteignir.is/pictures/1076046/6b633627c08847ac0ffca192bc5f6551-469x310.jpg",
-    "latitude": "64.14438045",
-    "longitude": "-21.93809521",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -11397,8 +11862,8 @@
     "size": "95,2",
     "category": "Fjölbýlishús",
     "rooms": "3",
-    "images_nr": "35",
-    "image": "https://api-beta.fasteignir.is/pictures/1076007/fddeea8c23d0e40962145317df0c09b6-469x310.jpg",
+    "images_nr": "36",
+    "image": "https://api-beta.fasteignir.is/pictures/1076007/4543e5b76827f59af7d18af0a897b397-469x310.jpg",
     "latitude": "64.14840737",
     "longitude": "-21.88659252",
     "legit_realestate_agent": "Guðbjörg Helga Jóhannesdóttir",
@@ -12355,34 +12820,6 @@
     "latitude": "64.14373365",
     "longitude": "-21.92969521",
     "legit_realestate_agent": "Guðmundur Th. Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1075381",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V3 - íbúð 102",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "69700000",
-    "size": "66,7",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1075381/f3ff61b7374bf3cc910371b5e8fc9332-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -15774,11 +16211,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072346",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:06:55"
     }
   },
   {
@@ -15802,11 +16240,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072345",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:06:42"
     }
   },
   {
@@ -15830,11 +16269,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072344",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:06:29"
     }
   },
   {
@@ -15858,11 +16298,12 @@
     "longitude": "-21.95320158",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072343",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:06:15"
     }
   },
   {
@@ -15886,11 +16327,12 @@
     "longitude": "-21.95320158",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072342",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:06:00"
     }
   },
   {
@@ -15914,11 +16356,12 @@
     "longitude": "-21.95320158",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072341",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:05:45"
     }
   },
   {
@@ -15942,11 +16385,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072340",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:05:28"
     }
   },
   {
@@ -15970,11 +16414,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072338",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:05:00"
     }
   },
   {
@@ -15998,11 +16443,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1072337",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-02 19:04:32"
     }
   },
   {
@@ -16445,146 +16891,6 @@
     "latitude": "64.14004601",
     "longitude": "-21.91481687",
     "legit_realestate_agent": "Hólmar Björn Sigþórsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072134",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Vesturvin V3 íb 501",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "210000000",
-    "size": "141",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1072134/85deb4f9dc65bfb1cd50f34ecf16dc4b-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072133",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V3 íb 211",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "79900000",
-    "size": "74,8",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "26",
-    "image": "https://api-beta.fasteignir.is/pictures/1072133/5bb9e494c2399dfbf8e1fc52d0ac1af2-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072130",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V2 íb 203",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "103500000",
-    "size": "202,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "31",
-    "image": "https://api-beta.fasteignir.is/pictures/1072130/1ac1350278bca11354470821614d0518-469x310.jpg",
-    "latitude": "64.15211253",
-    "longitude": "21.95320158",
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072129",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V1 íb 408",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "102400000",
-    "size": "95,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "42",
-    "image": "https://api-beta.fasteignir.is/pictures/1072129/909236783cc7bedee9df064eb5e3cc5d-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072127",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V1 íb 208",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "97000000",
-    "size": "94,2",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "47",
-    "image": "https://api-beta.fasteignir.is/pictures/1072127/62037e76fc732a9bfd710069c99a9781-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -18396,12 +18702,12 @@
       "zip": "107",
       "town": "Reykjavík"
     },
-    "price": "74500000",
+    "price": "73500000",
     "size": "83,2",
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1070268/0e10e1276a56a292e6a3040ead07822c-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1070268/5259e8547e98bf43146be5ef4d965139-469x310.jpg",
     "latitude": "64.14662",
     "longitude": "-21.963985",
     "legit_realestate_agent": "Þröstur Þórhallsson",
@@ -18517,34 +18823,6 @@
     "latitude": "64.13467575",
     "longitude": "-21.91891008",
     "legit_realestate_agent": "Helen Sigurðardóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1070019",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Hátún",
-    "street_number": "4",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "59900000",
-    "size": "77,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "39",
-    "image": "https://api-beta.fasteignir.is/pictures/1070019/8b21f8ac782edf46fd9a832cf97b90db-469x310.jpg",
-    "latitude": "64.14285077",
-    "longitude": "-21.90445575",
-    "legit_realestate_agent": "Bogi Molby Pétursson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -19226,34 +19504,6 @@
     }
   },
   {
-    "id": "1069054",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Víðimelur",
-    "street_number": "60",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "102900000",
-    "size": "103,4",
-    "category": "Hæð",
-    "rooms": "4",
-    "images_nr": "32",
-    "image": "https://api-beta.fasteignir.is/pictures/1069054/739a1fe95e66e3a73458bef364c25a8e-469x310.jpg",
-    "latitude": "64.14633508",
-    "longitude": "-21.95648112",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1068969",
     "bedrooms": "0",
     "bathrooms": "2",
@@ -19441,34 +19691,6 @@
     "latitude": "64.14187097",
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1068627",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Blönduhlíð",
-    "street_number": "16",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "82500000",
-    "size": "102,8",
-    "category": "Hæð",
-    "rooms": "3",
-    "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1068627/7cc35edd87e25d08fbdcd6f6f11938c1-469x310.jpg",
-    "latitude": "64.1320073",
-    "longitude": "-21.9114131",
-    "legit_realestate_agent": "Edda Svavarsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -20822,34 +21044,6 @@
     }
   },
   {
-    "id": "1067835",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Óðinsgata",
-    "street_number": "30",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "65500000",
-    "size": "93,8",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1067835/bde819151693bfa9fdef86e33ed9cb35-469x310.jpg",
-    "latitude": "64.14255371",
-    "longitude": "-21.93442116",
-    "legit_realestate_agent": "Rúnar Þór Árnason",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1067766",
     "bedrooms": "3",
     "bathrooms": "2",
@@ -21598,11 +21792,12 @@
     "longitude": "-21.95444712",
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066789",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-07-08 06:40:53"
     }
   },
   {
@@ -21738,11 +21933,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066091",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:22"
     }
   },
   {
@@ -21766,11 +21962,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066090",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:19"
     }
   },
   {
@@ -21794,11 +21991,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066089",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:16"
     }
   },
   {
@@ -21822,11 +22020,12 @@
     "longitude": null,
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066088",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:12"
     }
   },
   {
@@ -21850,11 +22049,12 @@
     "longitude": "-21.952684",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066087",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:09"
     }
   },
   {
@@ -21878,11 +22078,12 @@
     "longitude": "-21.95244475",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066086",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:05"
     }
   },
   {
@@ -21906,11 +22107,12 @@
     "longitude": "-21.95271234",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066085",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:27:02"
     }
   },
   {
@@ -21934,11 +22136,12 @@
     "longitude": null,
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066084",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:59"
     }
   },
   {
@@ -21962,11 +22165,12 @@
     "longitude": "-21.95260617",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066083",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:56"
     }
   },
   {
@@ -21990,11 +22194,12 @@
     "longitude": "-21.95416616",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066082",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:55"
     }
   },
   {
@@ -22018,11 +22223,12 @@
     "longitude": null,
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066081",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:51"
     }
   },
   {
@@ -22046,11 +22252,12 @@
     "longitude": "-21.95427515",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066080",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:44"
     }
   },
   {
@@ -22074,11 +22281,12 @@
     "longitude": "-21.95412916",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1066079",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 13:26:40"
     }
   },
   {
@@ -22746,11 +22954,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1064321",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-22 09:09:27"
     }
   },
   {
@@ -24490,34 +24699,6 @@
     }
   },
   {
-    "id": "1058430",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Skúlagata",
-    "street_number": "40",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "52900000",
-    "size": "63,4",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "22",
-    "image": "https://api-beta.fasteignir.is/pictures/1058430/fc5391b8554415cb2d56a385d5cfc997-469x310.jpg",
-    "latitude": "64.14487647",
-    "longitude": "-21.91755578",
-    "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1058428",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -24874,11 +25055,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057794",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:47:19"
     }
   },
   {
@@ -24902,11 +25084,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057793",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:47:09"
     }
   },
   {
@@ -24930,11 +25113,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057792",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:46:57"
     }
   },
   {
@@ -24958,11 +25142,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057791",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:46:45"
     }
   },
   {
@@ -24986,11 +25171,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057790",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:46:27"
     }
   },
   {
@@ -25014,11 +25200,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057789",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:46:15"
     }
   },
   {
@@ -25042,11 +25229,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057788",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:46:04"
     }
   },
   {
@@ -25070,11 +25258,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Kjartan Hallgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057787",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:45:52"
     }
   },
   {
@@ -25098,11 +25287,12 @@
     "longitude": "21.95320158",
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057786",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:45:43"
     }
   },
   {
@@ -25126,11 +25316,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057785",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:45:31"
     }
   },
   {
@@ -25154,11 +25345,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057784",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:45:16"
     }
   },
   {
@@ -25182,11 +25374,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057783",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:45:06"
     }
   },
   {
@@ -25210,11 +25403,12 @@
     "longitude": null,
     "legit_realestate_agent": "Ólafur H. Guðgeirsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1057782",
+      "date": "2026-07-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Fasteignasalar taka á móti áhugasömum. Sýnum allar óseldar eignir. Íbúðirnar eru til afhendingar við kaupsamning.",
+      "added_at": "2026-06-06 07:44:56"
     }
   },
   {
@@ -26213,7 +26407,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "9",
-    "image": "https://api-beta.fasteignir.is/pictures/1054703/5f5c6ed6b99454997281238c759ccd20-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1054703/d9fd7e3a9184f47aab69f3953f6ae889-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Böðvar Eggertsson",
@@ -27869,146 +28063,6 @@
     "latitude": "64.143161",
     "longitude": "-21.937521",
     "legit_realestate_agent": "Óskar Sæmann Axelsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1046924",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vesturvin",
-    "street_number": "3 - 101",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "69700000",
-    "size": "66",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "21",
-    "image": "https://api-beta.fasteignir.is/pictures/1046924/01bdbd5acb2a35fca4667acaa1c3a79d-469x310.jpg",
-    "latitude": "64.143161",
-    "longitude": "-21.937521",
-    "legit_realestate_agent": "Óskar Sæmann Axelsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1046923",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vesturvin",
-    "street_number": "3 - 103",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "67700000",
-    "size": "57,1",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "21",
-    "image": "https://api-beta.fasteignir.is/pictures/1046923/2c24fa04be65ebaf6e9c58dc4bf4768f-469x310.jpg",
-    "latitude": "64.146987",
-    "longitude": "-21.940755",
-    "legit_realestate_agent": "Óskar Sæmann Axelsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1046913",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Borgartún",
-    "street_number": "24B  ",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "59900000",
-    "size": "60,8",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1046913/f972cf74eabf5913775f940c86097bfa-469x310.jpg",
-    "latitude": "64.14535959",
-    "longitude": "-21.90159409",
-    "legit_realestate_agent": "Arinbjörn Marinósson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1046904",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vesturvin",
-    "street_number": "1 - 409",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "80000000",
-    "size": "69,5",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "7",
-    "image": "https://api-beta.fasteignir.is/pictures/1046904/8dc56fca5c89cc7ddb2ad738309aedd9-469x310.jpg",
-    "latitude": "64.146987",
-    "longitude": "-21.940755",
-    "legit_realestate_agent": "Þröstur Þórhallsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1046903",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Vesturvin",
-    "street_number": "1 - 304",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "143000000",
-    "size": "135,3",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1046903/b5e00ec1174d9bb854f03f55bc59d690-469x310.jpg",
-    "latitude": "64.131201",
-    "longitude": "-21.766066",
-    "legit_realestate_agent": "Þröstur Þórhallsson",
     "openhouse": {
       "property": null,
       "date": null,
