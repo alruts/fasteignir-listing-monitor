@@ -1,5 +1,90 @@
 [
   {
+    "id": "1084242",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Kleppsvegur",
+    "street_number": "50",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "74900000",
+    "size": "100,9",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "43",
+    "image": "https://api-beta.fasteignir.is/pictures/1084242/f71fcb8e4073f4d220fe5a2e61a8c165-469x310.jpg",
+    "latitude": "64.15000683",
+    "longitude": "-21.87300013",
+    "legit_realestate_agent": "Þóra Þrastardóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1084222",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Skipholt",
+    "street_number": "11-13",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "129000000",
+    "size": "142,7",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "30",
+    "image": "https://api-beta.fasteignir.is/pictures/1084222/352d567d09d87a75990aa34f86a69449-469x310.jpg",
+    "latitude": "64.14153283",
+    "longitude": "-21.90752463",
+    "legit_realestate_agent": "Elísabet Kvaran",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1084218",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Holtsgata",
+    "street_number": "24",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "61900000",
+    "size": "58,6",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "21",
+    "image": "https://api-beta.fasteignir.is/pictures/1084218/626d36f56565408cee81d04e5a44d1e5-469x310.jpg",
+    "latitude": "64.15009963",
+    "longitude": "-21.95577657",
+    "legit_realestate_agent": "Bergþóra Lárusdóttir",
+    "openhouse": {
+      "property_id": "1084218",
+      "date": "2026-07-28",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Holtsgata 24, 101 Reykjavík, Íbúð merkt: Kristján og Edda.  Eignin verður sýnd þriðjudaginn 28. júlí 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-07-25 16:04:20"
+    }
+  },
+  {
     "id": "1084200",
     "bedrooms": "2",
     "bathrooms": "3",
@@ -99,16 +184,17 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1084196/a7f860ecd0657f54564c2d6710b99119-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1084196/1cb006454cc709e39b878a65816f1ac0-469x310.jpg",
     "latitude": "64.14749",
     "longitude": "-21.965393",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084196",
+      "date": "2026-07-28",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-07-25 13:56:20"
     }
   },
   {
@@ -419,34 +505,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1084113/898d12607184ec82324a992868f812f7-469x310.jpg",
     "latitude": "64.13848025",
     "longitude": "-21.95996989",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1084104",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Kolagata",
-    "street_number": "3",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "148900000",
-    "size": "125",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "18",
-    "image": "https://api-beta.fasteignir.is/pictures/1084104/d07b9c016c77c119e0a33aa872f8d881-469x310.jpg",
-    "latitude": "64.14847178",
-    "longitude": "-21.93649487",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
       "property": null,
@@ -2126,34 +2184,6 @@
       "time_end": "16:00:00",
       "description": null,
       "added_at": "2026-07-23 17:32:19"
-    }
-  },
-  {
-    "id": "1083619",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Skipholt",
-    "street_number": "11-13",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "129000000",
-    "size": "142,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "30",
-    "image": "https://api-beta.fasteignir.is/pictures/1083619/e36571caa45ae675e50afa1a7700816c-469x310.jpg",
-    "latitude": "64.14153283",
-    "longitude": "-21.90752463",
-    "legit_realestate_agent": "Elísabet Kvaran",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
     }
   },
   {
@@ -22398,34 +22428,6 @@
     "latitude": "64.13569229",
     "longitude": "-21.9585916",
     "legit_realestate_agent": "Hrafnkell P. H. Pálmason",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1069278",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Kleppsvegur",
-    "street_number": "50",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "74900000",
-    "size": "100,9",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "43",
-    "image": "https://api-beta.fasteignir.is/pictures/1069278/73adc05c1a53be4031488387f247ead2-469x310.jpg",
-    "latitude": "64.15000683",
-    "longitude": "-21.87300013",
-    "legit_realestate_agent": "Þóra Þrastardóttir",
     "openhouse": {
       "property": null,
       "date": null,
