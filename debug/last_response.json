@@ -1,5 +1,90 @@
 [
   {
+    "id": "1085082",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Óðinsgata",
+    "street_number": "26",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "64900000",
+    "size": "62,1",
+    "category": "Hæð",
+    "rooms": "3",
+    "images_nr": "30",
+    "image": "https://api-beta.fasteignir.is/pictures/1085082/bc76103123aadddd42f0f00e993ca565-469x310.jpg",
+    "latitude": "64.14276108",
+    "longitude": "-21.93426249",
+    "legit_realestate_agent": "Ævar Örn Jóhannsson",
+    "openhouse": {
+      "property_id": "1085082",
+      "date": "2026-07-28",
+      "time_start": "13:00:00",
+      "time_end": "13:30:00",
+      "description": "Opið hús: Óðinsgata 26, 101 Reykjavík.  Eignin verður sýnd þriðjudaginn 28. júlí 2026 milli kl. 13:00 og kl. 13:30.",
+      "added_at": "2026-07-27 18:13:57"
+    }
+  },
+  {
+    "id": "1085063",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Tryggvagata",
+    "street_number": "4",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "69,2",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1085063/48e08f294f415d60a118cc316b1aa7a7-469x310.jpg",
+    "latitude": "64.15063006",
+    "longitude": "-21.94429409",
+    "legit_realestate_agent": "Gunnlaugur Hrannar Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1085059",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Snorrabraut",
+    "street_number": "62",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "60900000",
+    "size": "52,6",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "17",
+    "image": "https://api-beta.fasteignir.is/pictures/1085059/99aa420d2947a60300210b2f3bd76745-469x310.jpg",
+    "latitude": "64.14004028",
+    "longitude": "-21.92050568",
+    "legit_realestate_agent": "Gunnlaugur Hrannar Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1084996",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -2711,11 +2796,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084262",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 08:00:49"
     }
   },
   {
@@ -2739,11 +2825,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084261",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 08:00:38"
     }
   },
   {
@@ -2767,11 +2854,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084260",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 08:00:27"
     }
   },
   {
@@ -2795,11 +2883,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084259",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 08:00:17"
     }
   },
   {
@@ -2823,11 +2912,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084258",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 08:00:09"
     }
   },
   {
@@ -2851,11 +2941,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084257",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-26 07:59:56"
     }
   },
   {
@@ -3218,11 +3309,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084151",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:26:01"
     }
   },
   {
@@ -3246,11 +3338,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084149",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:13:58"
     }
   },
   {
@@ -3274,11 +3367,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084148",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:13:50"
     }
   },
   {
@@ -3302,11 +3396,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084147",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:13:41"
     }
   },
   {
@@ -3330,11 +3425,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084146",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:13:29"
     }
   },
   {
@@ -3358,11 +3454,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084145",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:06:01"
     }
   },
   {
@@ -3386,11 +3483,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084144",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:05:53"
     }
   },
   {
@@ -3414,11 +3512,12 @@
     "longitude": null,
     "legit_realestate_agent": "Gunnar Bergmann Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1084143",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-25 10:05:44"
     }
   },
   {
@@ -3892,11 +3991,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083904",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:19:49"
     }
   },
   {
@@ -3920,11 +4020,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083903",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:19:36"
     }
   },
   {
@@ -3948,11 +4049,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083902",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:19:24"
     }
   },
   {
@@ -3976,11 +4078,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083901",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:19:09"
     }
   },
   {
@@ -4004,11 +4107,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083900",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:18:56"
     }
   },
   {
@@ -4032,11 +4136,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083899",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:18:43"
     }
   },
   {
@@ -4060,11 +4165,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083898",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:18:31"
     }
   },
   {
@@ -4088,11 +4194,12 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083897",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:18:17"
     }
   },
   {
@@ -4116,11 +4223,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083896",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:18:03"
     }
   },
   {
@@ -4144,11 +4252,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083895",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:17:50"
     }
   },
   {
@@ -4172,11 +4281,12 @@
     "longitude": null,
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083894",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-24 13:17:38"
     }
   },
   {
@@ -4482,12 +4592,11 @@
     "longitude": "-21.93539148",
     "legit_realestate_agent": "Jóhanna Kristín Tómasdóttir",
     "openhouse": {
-      "property_id": "1083768",
-      "date": "2026-07-28",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bergstaðastræti 36, 101 Reykjavík.  Eignin verður sýnd þriðjudaginn 28. júlí 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-07-24 10:29:29"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4517,34 +4626,6 @@
       "time_end": "17:00:00",
       "description": null,
       "added_at": "2026-07-24 10:04:35"
-    }
-  },
-  {
-    "id": "1083760",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Tómasarhagi",
-    "street_number": "14",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "92900000",
-    "size": "97,5",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1083760/139c3c9a7dc3df62cc1b02f0ac047401-469x310.jpg",
-    "latitude": "64.1373971",
-    "longitude": "-21.9582193",
-    "legit_realestate_agent": "Sveinn Eyland",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
     }
   },
   {
@@ -7093,12 +7174,11 @@
     "longitude": "-21.91955851",
     "legit_realestate_agent": "Ingibjörg Reynisdóttir",
     "openhouse": {
-      "property_id": "1082631",
-      "date": "2026-07-27",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Grettisgata 64, 101 Reykjavík, Íbúð merkt: 01 03 01.  Eignin verður sýnd mánudaginn 27. júlí 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-07-22 11:13:55"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -9781,7 +9861,7 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "35",
-    "image": "https://api-beta.fasteignir.is/pictures/1081160/3ee9f9c78a2bcdec1ec90f9ae53e2c04-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1081160/fc8fa07b618bbc3a21ffe222f1a8784f-469x310.jpg",
     "latitude": "64.1429874",
     "longitude": "-21.92441623",
     "legit_realestate_agent": "Hera Björk Þórhallsdóttir",
@@ -11197,62 +11277,6 @@
     }
   },
   {
-    "id": "1079996",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Tryggvagata",
-    "street_number": "4",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "0",
-    "size": "69,2",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "22",
-    "image": "https://api-beta.fasteignir.is/pictures/1079996/bcc6eb6a97246648f090fc1b4e5a55f8-469x310.jpg",
-    "latitude": "64.15063006",
-    "longitude": "-21.94429409",
-    "legit_realestate_agent": "Gunnlaugur Hrannar Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1079990",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Snorrabraut",
-    "street_number": "62",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "60900000",
-    "size": "52,6",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1079990/e3ac377a5ecf39561f8e22c21db498b8-469x310.jpg",
-    "latitude": "64.14004028",
-    "longitude": "-21.92050568",
-    "legit_realestate_agent": "Gunnlaugur Hrannar Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1079948",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -12308,34 +12332,6 @@
     "latitude": "64.15734811",
     "longitude": "-21.94202824",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1079059",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Bríetartún",
-    "street_number": "16",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "79900000",
-    "size": "90,5",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "34",
-    "image": "https://api-beta.fasteignir.is/pictures/1079059/b62e4800571150793fe2571f71aa0a9e-469x310.jpg",
-    "latitude": "64.14385334",
-    "longitude": "-21.91080757",
-    "legit_realestate_agent": "Jóhanna Margrét Jóhannsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -18667,11 +18663,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074107",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:06:09"
     }
   },
   {
@@ -18695,11 +18692,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074105",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:06:04"
     }
   },
   {
@@ -18723,11 +18721,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074104",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:06:00"
     }
   },
   {
@@ -18751,11 +18750,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074103",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:05:56"
     }
   },
   {
@@ -18779,11 +18779,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074102",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:05:52"
     }
   },
   {
@@ -18807,11 +18808,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074101",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:05:47"
     }
   },
   {
@@ -18835,11 +18837,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074099",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:05:42"
     }
   },
   {
@@ -18863,11 +18866,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074098",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:05:37"
     }
   },
   {
@@ -18891,11 +18895,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074054",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:50"
     }
   },
   {
@@ -18919,11 +18924,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074053",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:45"
     }
   },
   {
@@ -18947,11 +18953,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074052",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:37"
     }
   },
   {
@@ -18975,11 +18982,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074051",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:33"
     }
   },
   {
@@ -19003,11 +19011,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074050",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:29"
     }
   },
   {
@@ -19031,11 +19040,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074049",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:25"
     }
   },
   {
@@ -19059,11 +19069,12 @@
     "longitude": null,
     "legit_realestate_agent": "Rögnvaldur Örn Jónsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1074048",
+      "date": "2026-07-29",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Gengið inn frá Nóatúni",
+      "added_at": "2026-07-06 15:01:19"
     }
   },
   {
@@ -20094,34 +20105,6 @@
     "latitude": "64.14645041",
     "longitude": "-21.96077387",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1072606",
-    "bedrooms": "4",
-    "bathrooms": "3",
-    "street_name": "Norðurstígur",
-    "street_number": "5",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "153500000",
-    "size": "155,6",
-    "category": "Fjölbýlishús",
-    "rooms": "8",
-    "images_nr": "42",
-    "image": "https://api-beta.fasteignir.is/pictures/1072606/5da77d21eff6d8f9eee83cf4325306ed-469x310.jpg",
-    "latitude": "64.15029799",
-    "longitude": "-21.94422429",
-    "legit_realestate_agent": "Hallgrímur Óli Hólmsteinsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -26655,34 +26638,6 @@
     }
   },
   {
-    "id": "1056733",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Óðinsgata",
-    "street_number": "26",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "64900000",
-    "size": "62,1",
-    "category": "Hæð",
-    "rooms": "3",
-    "images_nr": "30",
-    "image": "https://api-beta.fasteignir.is/pictures/1056733/d23da863e0ea1fe55173842f2b0e7af4-469x310.jpg",
-    "latitude": "64.14276108",
-    "longitude": "-21.93426249",
-    "legit_realestate_agent": "Ævar Örn Jóhannsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "199983",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -28018,6 +27973,90 @@
     "latitude": "64.13224185",
     "longitude": "-21.91447997",
     "legit_realestate_agent": "Nadia Katrín Banine",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1049245",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Skúlagata",
+    "street_number": "32-34",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "81",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "23",
+    "image": "https://api-beta.fasteignir.is/pictures/1049245/8ad90c84ba7086edc62046f4cc3d24d1-469x310.jpg",
+    "latitude": "64.14521976",
+    "longitude": "-21.9188125",
+    "legit_realestate_agent": "Kristján Baldursson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1048832",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Skipholt 1505",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "122900000",
+    "size": "98,7",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "10",
+    "image": "https://api-beta.fasteignir.is/pictures/1048832/6028b8159c6f2cbe03338c0175b449cd-469x310.jpg",
+    "latitude": "64.141334",
+    "longitude": "-21.910899",
+    "legit_realestate_agent": "Jórunn Skúladóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1048740",
+    "bedrooms": "6",
+    "bathrooms": "5",
+    "street_name": "Háahlíð",
+    "street_number": "16",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "530",
+    "category": "Fjölbýlishús",
+    "rooms": "10",
+    "images_nr": "68",
+    "image": "https://api-beta.fasteignir.is/pictures/1048740/37ac6c1212f0819d4cc1af78a53658d7-469x310.jpg",
+    "latitude": "64.12978905",
+    "longitude": "-21.91008979",
+    "legit_realestate_agent": "Atli S. Sigvarðsson",
     "openhouse": {
       "property": null,
       "date": null,
