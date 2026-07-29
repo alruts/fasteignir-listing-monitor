@@ -1,5 +1,91 @@
 [
   {
+    "id": "368365",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Hagamelur",
+    "street_number": "51",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "69,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "33",
+    "image": "https://api-beta.fasteignir.is/pictures/368365/2b2bdaa198263eb4867106aeb681e29b-469x310.jpg",
+    "latitude": "64.14524751",
+    "longitude": "-21.96163189",
+    "legit_realestate_agent": "María Mjöll Guðmundsdóttir",
+    "openhouse": {
+      "property_id": "368365",
+      "date": "2026-08-04",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Hagamelur 51, 107 Reykjavík, Íbúð merkt: 01 04 03.  Eignin verður sýnd þriðjudaginn  4. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-07-29 17:27:52"
+    }
+  },
+  {
+    "id": "1085934",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Laugateigur",
+    "street_number": "5",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "124500000",
+    "size": "151,1",
+    "category": "Hæð",
+    "rooms": "5",
+    "images_nr": "24",
+    "image": "https://api-beta.fasteignir.is/pictures/1085934/ab5b7b100cce9c67490279e0f66caa67-469x310.jpg",
+    "latitude": "64.14402952",
+    "longitude": "-21.89088456",
+    "legit_realestate_agent": "Guðmundur Th. Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1085931",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "street_name": "Háteigsvegur",
+    "street_number": "12",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "145000000",
+    "size": "156,5",
+    "category": "Hæð",
+    "rooms": "6",
+    "images_nr": "39",
+    "image": "https://api-beta.fasteignir.is/pictures/1085931/5b6fdd86db04b176cb2fa3fc5637b084-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": null,
+    "openhouse": {
+      "property_id": "1085931",
+      "date": "2026-08-06",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Háteigsvegur 12, 105 Reykjavík.  Eignin verður sýnd fimmtudaginn  6. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-07-29 15:39:26"
+    }
+  },
+  {
     "id": "1085909",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -4491,34 +4577,6 @@
     "latitude": "64.13185863",
     "longitude": "-21.90317558",
     "legit_realestate_agent": "Jórunn Skúladóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1084637",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Bragagata",
-    "street_number": "25",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "66900000",
-    "size": "65,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "24",
-    "image": "https://api-beta.fasteignir.is/pictures/1084637/0ece360238b3bea4089aeeb8026e9b2f-469x310.jpg",
-    "latitude": "64.14214507",
-    "longitude": "-21.93275759",
-    "legit_realestate_agent": "Daði Runólfsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -9042,7 +9100,7 @@
     "category": "Hæð",
     "rooms": "7",
     "images_nr": "45",
-    "image": "https://api-beta.fasteignir.is/pictures/1082442/a81e9573ef6b5a14e74095d09e7f8947-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1082442/85e5ce91517b05c88d9f93692dba6328-469x310.jpg",
     "latitude": "64.14963425",
     "longitude": "-21.88090033",
     "legit_realestate_agent": "Guðrún Lilja Tryggvadóttir",
@@ -11902,34 +11960,6 @@
     "latitude": "64.13889512",
     "longitude": "-21.91380817",
     "legit_realestate_agent": "Salvör Þóra Davíðsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1080100",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Hallgerðargata",
-    "street_number": "11",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "85900000",
-    "size": "88,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1080100/2ea7ffc603b7ed41ea22cd19bb26a699-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Hera Björk Þórhallsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -18143,7 +18173,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "38",
-    "image": "https://api-beta.fasteignir.is/pictures/1075068/e7da63b88ea87831591168626aed4f59-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1075068/e232f89f452270f4374dbecf40ea5bb3-469x310.jpg",
     "latitude": "64.15021985",
     "longitude": "-21.96175448",
     "legit_realestate_agent": null,
@@ -28025,35 +28055,6 @@
       "time_end": "17:30:00",
       "description": "Gengið inn frá Nóatúni",
       "added_at": "2026-05-22 10:37:03"
-    }
-  },
-  {
-    "id": "1048651",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 168 íb 414 - Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "83900000",
-    "size": "76,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1048651/4f4c2b47660ffbbd79e6a81b7bb33919-469x310.jpg",
-    "latitude": "64.14178428",
-    "longitude": "-21.9037073",
-    "legit_realestate_agent": "Oddný María Kristinsdóttir",
-    "openhouse": {
-      "property_id": "1048651",
-      "date": "2026-07-29",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Gengið inn frá Nóatúni",
-      "added_at": "2026-05-22 10:36:55"
     }
   }
 ]
