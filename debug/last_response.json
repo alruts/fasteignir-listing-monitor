@@ -1,5 +1,61 @@
 [
   {
+    "id": "1087048",
+    "bedrooms": "7",
+    "bathrooms": "4",
+    "street_name": "Suðurgata",
+    "street_number": "100",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "179900000",
+    "size": "201,3",
+    "category": "Einbýlishús",
+    "rooms": "8",
+    "images_nr": "52",
+    "image": "https://api-beta.fasteignir.is/pictures/1087048/e429d719ade6a597c577b8ef72bed1f1-469x310.jpg",
+    "latitude": "64.13756201",
+    "longitude": "-21.95464368",
+    "legit_realestate_agent": "Sveinn Gíslason",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1087043",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Skeggjagata",
+    "street_number": "16",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "76900000",
+    "size": "92,4",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "27",
+    "image": "https://api-beta.fasteignir.is/pictures/1087043/29f5568ba125b65e867236802e751b99-469x310.jpg",
+    "latitude": "64.13935495",
+    "longitude": "-21.9161977",
+    "legit_realestate_agent": "Svavar Friðriksson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1087000",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -1887,34 +1943,6 @@
     }
   },
   {
-    "id": "1086600",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Skeggjagata",
-    "street_number": "16",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "76900000",
-    "size": "92,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1086600/48cb37b31df206b5eee3d418fe81caac-469x310.jpg",
-    "latitude": "64.13935495",
-    "longitude": "-21.9161977",
-    "legit_realestate_agent": "Svavar Friðriksson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1086589",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -2299,34 +2327,6 @@
     "latitude": "64.152673",
     "longitude": "-21.950118",
     "legit_realestate_agent": "Jón Rafn Valdimarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1086417",
-    "bedrooms": "7",
-    "bathrooms": "4",
-    "street_name": "Suðurgata",
-    "street_number": "100",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "179900000",
-    "size": "201,3",
-    "category": "Einbýlishús",
-    "rooms": "8",
-    "images_nr": "52",
-    "image": "https://api-beta.fasteignir.is/pictures/1086417/40bc3909da51da25c376bdab00ea9553-469x310.jpg",
-    "latitude": "64.13756201",
-    "longitude": "-21.95464368",
-    "legit_realestate_agent": "Sveinn Gíslason",
     "openhouse": {
       "property": null,
       "date": null,
@@ -17062,34 +17062,6 @@
     }
   },
   {
-    "id": "1077795",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 168 íb205 Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "89900000",
-    "size": "83,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "12",
-    "image": "https://api-beta.fasteignir.is/pictures/1077795/37170de3a408bef2045d412190d48686-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Margrét Rós Einarsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1077796",
     "bedrooms": "2",
     "bathrooms": "2",
@@ -17109,6 +17081,34 @@
     "latitude": "64.148636",
     "longitude": "-21.937296",
     "legit_realestate_agent": "Móeiður Svala",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1077795",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Laugavegur 168 íb205 Heklureitur",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "89900000",
+    "size": "83,7",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "12",
+    "image": "https://api-beta.fasteignir.is/pictures/1077795/37170de3a408bef2045d412190d48686-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Margrét Rós Einarsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
