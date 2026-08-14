@@ -1,5 +1,118 @@
 [
   {
+    "id": "1092985",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Framnesvegur",
+    "street_number": "17",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "82900000",
+    "size": "91,1",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1092985/fa5c56a38efd81f6368f49abda7b2a86-469x310.jpg",
+    "latitude": "64.150586",
+    "longitude": "-21.95427",
+    "legit_realestate_agent": "Ólafur Finnbogason",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1092942",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Vatnsstígur",
+    "street_number": "20",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "134900000",
+    "size": "107,6",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "21",
+    "image": "https://api-beta.fasteignir.is/pictures/1092942/1acf6db97cf49fc5a6dd547081e491ea-469x310.jpg",
+    "latitude": "64.14671544",
+    "longitude": "-21.92345414",
+    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1092935",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Grandavegur",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "68,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "33",
+    "image": "https://api-beta.fasteignir.is/pictures/1092935/15839b5b8baaba1d9a6022200b344572-469x310.jpg",
+    "latitude": "64.1485457",
+    "longitude": "-21.96062858",
+    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
+    "openhouse": {
+      "property_id": "1092935",
+      "date": "2026-08-18",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": " ",
+      "added_at": "2026-08-13 21:00:17"
+    }
+  },
+  {
+    "id": "256525",
+    "bedrooms": "0",
+    "bathrooms": "0",
+    "street_name": "Laugavegur",
+    "street_number": "74. leiga",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "134",
+    "category": "Atvinnuhúsnæði",
+    "rooms": "0",
+    "images_nr": "5",
+    "image": "https://api-beta.fasteignir.is/pictures/256525/f17fa396e66b9877d2b841518861b9e8-469x310.jpg",
+    "latitude": "64.14382796",
+    "longitude": "-21.92014582",
+    "legit_realestate_agent": "Brandur Gunnarsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1092927",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -522,16 +635,17 @@
     "category": "Hæð",
     "rooms": "5",
     "images_nr": "32",
-    "image": "https://api-beta.fasteignir.is/pictures/1092837/5c8b2be90fdaed4849f3c9d0b58ef9aa-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092837/75323675f5a4fb1902ab73fb911ea383-469x310.jpg",
     "latitude": "64.13217792",
     "longitude": "-21.91007447",
     "legit_realestate_agent": "Vernharð S Þorleifsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1092837",
+      "date": "2026-08-18",
+      "time_start": "17:30:00",
+      "time_end": "18:00:00",
+      "description": "Opið hús: Blönduhlíð 27, 105 Reykjavík.  Eignin verður sýnd þriðjudaginn 18. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
+      "added_at": "2026-08-13 15:26:58"
     }
   },
   {
@@ -663,16 +777,17 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1092753/d633be7b173c5fe1b42a81a728f05f2d-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092753/61e7a15c5fbba9f8cba614028da15934-469x310.jpg",
     "latitude": "64.13321848",
     "longitude": "-21.90387364",
     "legit_realestate_agent": "Ragnhildur Finnbogadóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1092753",
+      "date": "2026-08-20",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Eignin verður sýnd fimmtudaginn 20. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-08-13 14:14:38"
     }
   },
   {
@@ -1820,12 +1935,11 @@
     "longitude": "-21.965393",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1092491",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-13 10:56:53"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1905,12 +2019,11 @@
     "longitude": "-21.91268852",
     "legit_realestate_agent": null,
     "openhouse": {
-      "property_id": "1092486",
-      "date": "2026-08-13",
-      "time_start": "17:30:00",
-      "time_end": "18:00:00",
-      "description": " ",
-      "added_at": "2026-08-13 10:53:04"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2054,34 +2167,6 @@
     }
   },
   {
-    "id": "1092452",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Hringbraut",
-    "street_number": "120",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "204900000",
-    "size": "154,7",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "42",
-    "image": "https://api-beta.fasteignir.is/pictures/1092452/4ef9f74ff2efc1217555b461857e0ea6-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Guðmundur Þór Júlíusson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1092451",
     "bedrooms": "2",
     "bathrooms": "2",
@@ -2098,6 +2183,34 @@
     "rooms": "3",
     "images_nr": "30",
     "image": "https://api-beta.fasteignir.is/pictures/1092451/9b7da271a8de6798f92b9869e713d9dd-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Guðmundur Þór Júlíusson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1092452",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Hringbraut",
+    "street_number": "120",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "204900000",
+    "size": "154,7",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/1092452/4ef9f74ff2efc1217555b461857e0ea6-469x310.jpg",
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Guðmundur Þór Júlíusson",
@@ -2243,12 +2356,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092434",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 01 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:21:13"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2272,12 +2384,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092433",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 02 10.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:20:39"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2301,12 +2412,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092432",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 02 08.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:20:22"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2358,12 +2468,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092430",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 03 08.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:19:50"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2387,12 +2496,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092429",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 03 07.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:19:34"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2416,12 +2524,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092428",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 04 07.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:19:09"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2445,12 +2552,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092427",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 04 08.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:18:51"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2474,12 +2580,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092426",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 04 09.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:18:19"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2503,12 +2608,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092425",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 05 08.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:17:57"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2532,12 +2636,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092424",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Bolholt 9, 105 Reykjavík, Íbúð merkt: 02 05 07.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-13 10:17:39"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2561,12 +2664,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092423",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 06 03.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:17:07"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2590,12 +2692,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092422",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 06 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:16:51"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2619,12 +2720,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092421",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 05 03.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:16:37"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2648,12 +2748,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092420",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 05 05.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:16:12"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2677,12 +2776,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092419",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 05 04.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:15:58"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2706,12 +2804,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092418",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 05 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:15:24"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2735,12 +2832,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092416",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 04 06.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:14:49"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2764,12 +2860,11 @@
     "longitude": "-21.89462936",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092415",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 04 05.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:14:33"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2793,12 +2888,11 @@
     "longitude": "-21.89456499",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092413",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 04 04.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:14:18"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2822,12 +2916,11 @@
     "longitude": "-21.89465082",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092412",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 04 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:14:01"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2851,12 +2944,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092410",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 03 05.  Eignin verður sýnd fimmtudaginn  6. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:13:46"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2880,12 +2972,11 @@
     "longitude": "-21.89518846",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092409",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 03 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:13:23"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2909,12 +3000,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092407",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 02 05.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 10:13:04"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2938,12 +3028,11 @@
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1092406",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bolholt 7, 105 Reykjavík, Íbúð merkt: 02 02 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30. Eignina sýnir Jónas lgfs. Ef þig vantar einhverjar upplýsingar hringdu í 842-1520 eða sendu póst á jonas@fjarfesting.is",
-      "added_at": "2026-08-13 10:12:40"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3220,12 +3309,11 @@
     "longitude": "-21.91866978",
     "legit_realestate_agent": "Páll Konráð Pálsson",
     "openhouse": {
-      "property_id": "1092342",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Flókagata 10, 105 Reykjavík, Íbúð merkt: 01 02 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-13 08:07:30"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4349,12 +4437,11 @@
     "longitude": "-21.96077387",
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
     "openhouse": {
-      "property_id": "1091953",
-      "date": "2026-08-13",
-      "time_start": "12:00:00",
-      "time_end": "12:30:00",
-      "description": "Opið hús: Reynimelur 82, 107 Reykjavík, Íbúð merkt: 01 02.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 12:00 og kl. 12:30.",
-      "added_at": "2026-08-12 10:58:45"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6346,12 +6433,11 @@
     "longitude": "-21.90148982",
     "legit_realestate_agent": "Kristín Rós Magnadóttir",
     "openhouse": {
-      "property_id": "1091027",
-      "date": "2026-08-13",
-      "time_start": "12:00:00",
-      "time_end": "12:30:00",
-      "description": "Opið hús: Borgartún 24, 105 Reykjavík, Íbúð merkt: 206.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 12:00 og kl. 12:30.",
-      "added_at": "2026-08-10 21:37:31"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6431,12 +6517,11 @@
     "longitude": "-21.87379254",
     "legit_realestate_agent": "Guðrún Lilja Tryggvadóttir",
     "openhouse": {
-      "property_id": "1090966",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Kleppsvegur 46, 105 Reykjavík, Íbúð merkt: 01 02 01.  Eignin verður sýnd fimmtudaginn 13. ágúst milli kl. 17:00 og kl. 17:30, verið velkomin.",
-      "added_at": "2026-08-10 16:01:10"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6796,12 +6881,11 @@
     "longitude": "-21.89388885",
     "legit_realestate_agent": "Guðrún Antonsdóttir",
     "openhouse": {
-      "property_id": "1090787",
-      "date": "2026-08-13",
-      "time_start": "16:00:00",
-      "time_end": "16:30:00",
-      "description": "Opið hús: Sóltún 30, 105 Reykjavík, Íbúð merkt: 206.  Eignin verður sýnd fimmtudaginn  13. Ágúst 2026 milli kl. 16:00 og kl. 16:30. Guðrún Antonsdóttir fasteignasali tekur á móti áhugasömum kaupendum. ( Hentar ekki þessi tími? heyrðu í mér)",
-      "added_at": "2026-08-10 12:27:38"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6853,12 +6937,11 @@
     "longitude": "-21.95698555",
     "legit_realestate_agent": "Margrét Rós Einarsdóttir",
     "openhouse": {
-      "property_id": "1090778",
-      "date": "2026-08-13",
-      "time_start": "17:30:00",
-      "time_end": "18:00:00",
-      "description": "Víðimelur 64, 107 Reykjavík, 2 hæð og kjallari. Eignin verður sýnd n.k. fimmtudag 13. ágúst á milli kl. 17:30 og kl. 18:00.",
-      "added_at": "2026-08-10 12:20:10"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6882,12 +6965,11 @@
     "longitude": "-21.88988074",
     "legit_realestate_agent": "Heimir Hallgrímsson",
     "openhouse": {
-      "property_id": "1090706",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Hallgerðargata 19, 105 Reykjavík, Íbúð merkt: 01 03 04.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-10 11:10:02"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -7052,12 +7134,11 @@
     "longitude": "-21.95367013",
     "legit_realestate_agent": "Lilja Guðmundsdóttir",
     "openhouse": {
-      "property_id": "1043815",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": " ",
-      "added_at": "2026-08-10 10:02:33"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8371,12 +8452,11 @@
     "longitude": "-21.91756197",
     "legit_realestate_agent": "Guðbjörg G. Sveinbjörnsdóttir",
     "openhouse": {
-      "property_id": "1090017",
-      "date": "2026-08-13",
-      "time_start": "17:30:00",
-      "time_end": "18:00:00",
-      "description": "Opið hús: Skúlagata 40, 101 Reykjavík, Íbúð merkt: 09 09 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
-      "added_at": "2026-08-07 16:52:03"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8513,12 +8593,11 @@
     "longitude": "-21.89580546",
     "legit_realestate_agent": "Ellert Bragi Sigurþórsson",
     "openhouse": {
-      "property_id": "1089859",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Sóltún 16, 105 Reykjavík, Íbúð merkt: 02 02 03.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-07 12:48:35"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8570,12 +8649,11 @@
     "longitude": "-21.96041453",
     "legit_realestate_agent": "Úlfar Þór Davíðsson",
     "openhouse": {
-      "property_id": "1089841",
-      "date": "2026-08-13",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Neshagi 9, 107 Reykjavík, Íbúð merkt: 03 00 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-07 12:12:34"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8943,34 +9021,6 @@
     }
   },
   {
-    "id": "1089440",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Holtsgata",
-    "street_number": "24",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "61900000",
-    "size": "58,6",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "23",
-    "image": "https://api-beta.fasteignir.is/pictures/1089440/c313d6de8dbe4b474b16e272e5da1111-469x310.jpg",
-    "latitude": "64.15009963",
-    "longitude": "-21.95577657",
-    "legit_realestate_agent": "Bergþóra Lárusdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1089389",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -8991,12 +9041,11 @@
     "longitude": "-21.89599071",
     "legit_realestate_agent": "Eggert Maríuson",
     "openhouse": {
-      "property_id": "1089389",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": " ",
-      "added_at": "2026-08-06 14:21:40"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -10148,34 +10197,6 @@
     }
   },
   {
-    "id": "1089277",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Laugavegur 170 íb511 Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "102900000",
-    "size": "91,9",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1089277/e2ca60c7a8b8269ac5b08d87e86c0d26-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Sigurður Gunnlaugsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1089278",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -10195,6 +10216,34 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Þóra Þrastardóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1089277",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Laugavegur 170 íb511 Heklureitur",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "102900000",
+    "size": "91,9",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "19",
+    "image": "https://api-beta.fasteignir.is/pictures/1089277/e2ca60c7a8b8269ac5b08d87e86c0d26-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Sigurður Gunnlaugsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -10673,12 +10722,11 @@
     "longitude": "-21.92237555",
     "legit_realestate_agent": "Hallgrímur Óli Hólmsteinsson",
     "openhouse": {
-      "property_id": "1089004",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Bergþórugata 29, 101 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-06 00:21:55"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -11274,34 +11322,6 @@
     "latitude": "64.12978905",
     "longitude": "-21.91008979",
     "legit_realestate_agent": "Atli S. Sigvarðsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1088723",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Nönnugata",
-    "street_number": "1",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "64900000",
-    "size": "79,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1088723/1c3905a3feeed728803a7fd223725038-469x310.jpg",
-    "latitude": "64.14214385",
-    "longitude": "-21.93370334",
-    "legit_realestate_agent": "Óskar Már Alfreðsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -13435,12 +13455,11 @@
     "longitude": "-21.92450056",
     "legit_realestate_agent": "Sverrir Kristinsson ",
     "openhouse": {
-      "property_id": "1087482",
-      "date": "2026-08-13",
-      "time_start": "17:15:00",
-      "time_end": "17:45:00",
-      "description": "Opið hús: Vatnsstígur 16-18, 101 Reykjavík, Íbúð merkt: 10 03 03.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:15 og kl. 17:45.",
-      "added_at": "2026-08-04 07:48:56"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16971,34 +16990,6 @@
     }
   },
   {
-    "id": "1083874",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Grandavegur",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "68,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "32",
-    "image": "https://api-beta.fasteignir.is/pictures/1083874/6332e61919e724b11cf5a845d19bfef9-469x310.jpg",
-    "latitude": "64.1485457",
-    "longitude": "-21.96062858",
-    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1083778",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -18448,12 +18439,11 @@
     "longitude": "-21.95577626",
     "legit_realestate_agent": "Díana Arnfjörð",
     "openhouse": {
-      "property_id": "1081663",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Vesturvallagata 5, 101 Reykjavík, Íbúð merkt: 01 01 01.  Eignin verður sýnd fimmtudaginn 13. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-07-20 19:56:59"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -21876,6 +21866,34 @@
     }
   },
   {
+    "id": "1075429",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Sóltún",
+    "street_number": "30",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "72500000",
+    "size": "84,9",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "16",
+    "image": "https://api-beta.fasteignir.is/pictures/1075429/9f48e64b2cd14448c03e90be0ff97d2b-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Auður Sigr Kristinsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1075265",
     "bedrooms": "3",
     "bathrooms": "2",
@@ -22919,12 +22937,11 @@
     "longitude": "-21.930383",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1073886",
-      "date": "2026-08-13",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-09 14:16:17"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -23600,34 +23617,6 @@
     "latitude": "64.15157476",
     "longitude": "-21.95389825",
     "legit_realestate_agent": "Atli S. Sigvarðsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1071455",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Vatnsstígur",
-    "street_number": "20",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "134900000",
-    "size": "107,6",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "21",
-    "image": "https://api-beta.fasteignir.is/pictures/1071455/e52fa0c8cee8a6141b3fa547d4723d5a-469x310.jpg",
-    "latitude": "64.14671544",
-    "longitude": "-21.92345414",
-    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -28123,34 +28112,6 @@
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1054706",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(105)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "83900000",
-    "size": "85,9",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "6",
-    "image": "https://api-beta.fasteignir.is/pictures/1054706/f64536535052c55d56852f8cb9985104-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
       "property": null,
       "date": null,
