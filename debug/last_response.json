@@ -1,5 +1,33 @@
 [
   {
+    "id": "1097954",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Laugavegur",
+    "street_number": "39",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "88500000",
+    "size": "123,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "36",
+    "image": "https://api-beta.fasteignir.is/pictures/1097954/ef87f728f6d004e8ba1c8753240d48ad-469x310.jpg",
+    "latitude": "64.145218",
+    "longitude": "-21.926266",
+    "legit_realestate_agent": "Steinn Andri Viðarsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1097907",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -6520,34 +6548,6 @@
     }
   },
   {
-    "id": "1095661",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Laugavegur",
-    "street_number": "39",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "88500000",
-    "size": "123,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "36",
-    "image": "https://api-beta.fasteignir.is/pictures/1095661/b086fa6b52dd3c02d09a1fdcc7853c58-469x310.jpg",
-    "latitude": "64.145218",
-    "longitude": "-21.926266",
-    "legit_realestate_agent": "Steinn Andri Viðarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1095660",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -6772,34 +6772,6 @@
     }
   },
   {
-    "id": "1095600",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(216)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "84000000",
-    "size": "83,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "13",
-    "image": "https://api-beta.fasteignir.is/pictures/1095600/c2d04c802100fbf23b3b2e17d6f0f87c-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Móeiður Svala",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1095599",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -6826,6 +6798,34 @@
       "time_end": "18:00:00",
       "description": "Opið hús: Stigahlíð 26, 105 Reykjavík, Íbúð merkt: 03 04 02.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
       "added_at": "2026-08-18 22:25:29"
+    }
+  },
+  {
+    "id": "1095600",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(216)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "84000000",
+    "size": "83,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1095600/c2d04c802100fbf23b3b2e17d6f0f87c-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Móeiður Svala",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8088,6 +8088,35 @@
       "time_start": null,
       "time_end": null,
       "description": null
+    }
+  },
+  {
+    "id": "1095251",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Grandavegur",
+    "street_number": "42",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "187000000",
+    "size": "150,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "24",
+    "image": "https://api-beta.fasteignir.is/pictures/1095251/2e214856eb84561d6853f64b3fc9342c-469x310.jpg",
+    "latitude": "64.15062983",
+    "longitude": "-21.96281717",
+    "legit_realestate_agent": "Gunnlaugur Þráinsson",
+    "openhouse": {
+      "property_id": "1095251",
+      "date": "2026-08-26",
+      "time_start": "18:00:00",
+      "time_end": "18:30:00",
+      "description": "Opið hús: Grandavegur 42, 107 Reykjavík, Íbúð merkt: 02 06 04.  Eignin verður sýnd miðvikudaginn 26. ágúst 2026 milli kl. 18:00 og kl. 18:30.",
+      "added_at": "2026-08-23 07:00:04"
     }
   },
   {
@@ -28116,34 +28145,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1066084/5e3c6b5d363f6550242d56fb4f0cddd4-469x310.jpg",
     "latitude": null,
     "longitude": null,
-    "legit_realestate_agent": "Kári Sighvatsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1066083",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Vesturvin V1- íbúð 206",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "125500000",
-    "size": "136,3",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1066083/0eae7343c1a25f459d33c580eafcc086-469x310.jpg",
-    "latitude": "64.15251783",
-    "longitude": "-21.95260617",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
       "property": null,
