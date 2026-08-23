@@ -1,5 +1,91 @@
 [
   {
+    "id": "1098174",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "street_name": "Tómasarhagi",
+    "street_number": "17",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "169900000",
+    "size": "197,6",
+    "category": "Fjölbýlishús",
+    "rooms": "6",
+    "images_nr": "46",
+    "image": "https://api-beta.fasteignir.is/pictures/1098174/fcb4238321cdec4a9c344af8d579c15a-469x310.jpg",
+    "latitude": "64.136961",
+    "longitude": "-21.95866148",
+    "legit_realestate_agent": "Þórir Skarphéðinsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1098160",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Lokastígur",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "49900000",
+    "size": "53,8",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1098160/9051f2ea27f339e3e3a05be639ebce44-469x310.jpg",
+    "latitude": "64.14387222",
+    "longitude": "-21.93039128",
+    "legit_realestate_agent": "Ragnhildur Finnbogadóttir",
+    "openhouse": {
+      "property_id": "1098160",
+      "date": "2026-08-27",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-08-23 15:58:41"
+    }
+  },
+  {
+    "id": "1098154",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Klapparstígur",
+    "street_number": "14",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "149000000",
+    "size": "117,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "50",
+    "image": "https://api-beta.fasteignir.is/pictures/1098154/c5a233a9afba5af2634c0b5266e4ce3e-469x310.jpg",
+    "latitude": "64.14706135",
+    "longitude": "-21.92855009",
+    "legit_realestate_agent": "Ólafur Björn Blöndal",
+    "openhouse": {
+      "property_id": "1098154",
+      "date": "2026-08-26",
+      "time_start": "17:15:00",
+      "time_end": "17:45:00",
+      "description": "Opið hús: Klapparstígur 14, 101 Reykjavík, Íbúð merkt: 01 05 01.  Eignin verður sýnd miðvikudaginn 26. ágúst 2026 milli kl. 17:15 og kl. 17:45.",
+      "added_at": "2026-08-23 15:24:32"
+    }
+  },
+  {
     "id": "1098123",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -1230,7 +1316,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1097740/a69f872b3d68534e10583b7c14740326-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1097740/4ce772cd2e326e356bf16a771ce5e871-469x310.jpg",
     "latitude": "64.14059205",
     "longitude": "-21.91585556",
     "legit_realestate_agent": null,
@@ -9038,7 +9124,7 @@
     "category": "Raðhús",
     "rooms": "8",
     "images_nr": "30",
-    "image": "https://api-beta.fasteignir.is/pictures/1095063/1232413143eda59c9ead111839d6f189-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1095063/3f0c2afb5cb3ec60158c123f0e749b4e-469x310.jpg",
     "latitude": "64.14738725",
     "longitude": "-21.9759501",
     "legit_realestate_agent": "Úlfar Þór Davíðsson",
@@ -9462,34 +9548,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1094947/77ddc9c7110874f3e1956ebd86f46bd3-469x310.jpg",
     "latitude": "64.13101786",
     "longitude": "-21.90166892",
-    "legit_realestate_agent": "Þórir Skarphéðinsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1094946",
-    "bedrooms": "5",
-    "bathrooms": "2",
-    "street_name": "Tómasarhagi",
-    "street_number": "17",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "169900000",
-    "size": "197,6",
-    "category": "Fjölbýlishús",
-    "rooms": "6",
-    "images_nr": "46",
-    "image": "https://api-beta.fasteignir.is/pictures/1094946/782e46d0a03e3008cd767a9c3913dd38-469x310.jpg",
-    "latitude": "64.136961",
-    "longitude": "-21.95866148",
     "legit_realestate_agent": "Þórir Skarphéðinsson",
     "openhouse": {
       "property": null,
@@ -12695,11 +12753,12 @@
     "longitude": "-21.89833985",
     "legit_realestate_agent": "Ragnar Kristján Guðmundsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1093817",
+      "date": "2026-08-27",
+      "time_start": "17:30:00",
+      "time_end": "18:00:00",
+      "description": "Opið hús: Bólstaðarhlíð 40, 105 Reykjavík, Íbúð merkt: 302.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:30 og kl. 18:00.\r\n*** Verið velkomin, Ragnar S: 844-6516 ***",
+      "added_at": "2026-08-15 18:34:34"
     }
   },
   {
@@ -28093,62 +28152,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1066090/6c8e41917d3a84067c26653dcb371f6a-469x310.jpg",
     "latitude": "64.15211253",
     "longitude": "21.95320158",
-    "legit_realestate_agent": "Kári Sighvatsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1066089",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Vesturvin V2 - íbúð 405",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "141500000",
-    "size": "241,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "37",
-    "image": "https://api-beta.fasteignir.is/pictures/1066089/5cbb5a02bdb5c41339e4f5f068ec5d1f-469x310.jpg",
-    "latitude": "64.15211253",
-    "longitude": "21.95320158",
-    "legit_realestate_agent": "Kári Sighvatsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1066088",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Vesturvin V1 íb 605",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "165000000",
-    "size": "119",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "40",
-    "image": "https://api-beta.fasteignir.is/pictures/1066088/83b9debf4a5ffd9229af8bfa94b1771d-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
       "property": null,
