@@ -1,5 +1,977 @@
 [
   {
+    "id": "1099296",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(124)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "79500000",
+    "size": "81,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "11",
+    "image": "https://api-beta.fasteignir.is/pictures/1099296/b3e9c992b76556dec5e4c992387be9f6-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
+    "openhouse": {
+      "property_id": "1099296",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 13:06:13"
+    }
+  },
+  {
+    "id": "1099295",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0229",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "106900000",
+    "size": "108,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1099295/fecb006002bb15ae8d8035d50658fd5a-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
+    "openhouse": {
+      "property_id": "1099295",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 13:05:12"
+    }
+  },
+  {
+    "id": "1099294",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0419",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "145900000",
+    "size": "122,4",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "12",
+    "image": "https://api-beta.fasteignir.is/pictures/1099294/9114b629033720c5803596ce92a11ab6-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
+    "openhouse": {
+      "property_id": "1099294",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 13:04:13"
+    }
+  },
+  {
+    "id": "1099293",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Sigtún",
+    "street_number": "39",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "76900000",
+    "size": "98,3",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "17",
+    "image": "https://api-beta.fasteignir.is/pictures/1099293/817226f24e036adff18cd14b7263ac62-469x310.jpg",
+    "latitude": "64.14265483",
+    "longitude": "-21.88777953",
+    "legit_realestate_agent": "Karl Lúðvíksson",
+    "openhouse": {
+      "property_id": "1099293",
+      "date": "2026-08-31",
+      "time_start": "17:00:00",
+      "time_end": "18:00:00",
+      "description": "Opið hús: Sigtún 39, 105 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd mánudaginn 31. ágúst 2026 milli kl. 17:00 og kl. 18:00.",
+      "added_at": "2026-08-25 13:11:16"
+    }
+  },
+  {
+    "id": "1099292",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0511",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "115900000",
+    "size": "115,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "11",
+    "image": "https://api-beta.fasteignir.is/pictures/1099292/c5c5dcea59df7fe19ea58d4f14f85ca2-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
+    "openhouse": {
+      "property_id": "1099292",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 13:03:29"
+    }
+  },
+  {
+    "id": "1099291",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Bolholt",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "124000000",
+    "size": "116,5",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "5",
+    "image": "https://api-beta.fasteignir.is/pictures/1099291/e6c3db791da49ff3177db900eaf6adf6-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Sigríður Kjartansdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099280",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Rauðarárstígur",
+    "street_number": "9",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "49900000",
+    "size": "45,8",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1099280/3c61ecc3da9d8a5143d48800c4e3b49d-469x310.jpg",
+    "latitude": "64.14365389",
+    "longitude": "-21.9127451",
+    "legit_realestate_agent": "Ingólfur Geir Gissurarson",
+    "openhouse": {
+      "property_id": "1099280",
+      "date": "2026-08-27",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Rauðarárstígur 9, 105 Reykjavík, Íbúð merkt: 01 02 02.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-08-25 12:24:26"
+    }
+  },
+  {
+    "id": "1069797",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Sóltún",
+    "street_number": "3",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "148500000",
+    "size": "137,1",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "37",
+    "image": "https://api-beta.fasteignir.is/pictures/1069797/2cc10c5ca0795c33f890e9110041b6e6-469x310.jpg",
+    "latitude": "64.14474291",
+    "longitude": "-21.89965789",
+    "legit_realestate_agent": "Ingibjörg Þórðardóttir",
+    "openhouse": {
+      "property_id": "1069797",
+      "date": "2026-08-27",
+      "time_start": "16:45:00",
+      "time_end": "17:30:00",
+      "description": " ",
+      "added_at": "2026-08-25 12:14:06"
+    }
+  },
+  {
+    "id": "1099257",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Flyðrugrandi",
+    "street_number": "10",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "70,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1099257/0d41fd5b1ec0a57f137775777aebf191-469x310.jpg",
+    "latitude": "64.14749",
+    "longitude": "-21.965393",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099256",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Kolagata",
+    "street_number": "1 (204)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "132000000",
+    "size": "117,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "27",
+    "image": "https://api-beta.fasteignir.is/pictures/1099256/6f7cf7c35b229e5dade0201fd437bd8a-469x310.jpg",
+    "latitude": "64.148788",
+    "longitude": "-21.93732",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099250",
+    "bedrooms": "1",
+    "bathrooms": "2",
+    "street_name": "Hallgerðargata",
+    "street_number": "5 (307)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "104900000",
+    "size": "105,6",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "41",
+    "image": "https://api-beta.fasteignir.is/pictures/1099250/02f1a38bac039208561c57c5e566ff99-469x310.jpg",
+    "latitude": "64.14758479",
+    "longitude": "-21.89181247",
+    "legit_realestate_agent": "Þórunn Pálsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099237",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Drápuhlíð",
+    "street_number": "24",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "64900000",
+    "size": "79,4",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1099237/7c8ab65167c5cbbd10c2d0adf12d77cd-469x310.jpg",
+    "latitude": "64.13292088",
+    "longitude": "-21.91268852",
+    "legit_realestate_agent": "Þórir Skarphéðinsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099236",
+    "bedrooms": "5",
+    "bathrooms": "2",
+    "street_name": "Tómasarhagi",
+    "street_number": "17",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "169900000",
+    "size": "197,6",
+    "category": "Fjölbýlishús",
+    "rooms": "6",
+    "images_nr": "46",
+    "image": "https://api-beta.fasteignir.is/pictures/1099236/6cc742b23e51edf244e6b94cbe99aaf8-469x310.jpg",
+    "latitude": "64.136961",
+    "longitude": "-21.95866148",
+    "legit_realestate_agent": "Þórir Skarphéðinsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099227",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(118)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "89800000",
+    "size": "92,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1099227/6d1d1bcde43de0ac62176f21aaf16b4d-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099227",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:28:01"
+    }
+  },
+  {
+    "id": "1099226",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(205)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "85900000",
+    "size": "86,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1099226/97b1163c56dc746bd57a85a8bf77e978-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099226",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:26:38"
+    }
+  },
+  {
+    "id": "1099225",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(307)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "87900000",
+    "size": "89,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "17",
+    "image": "https://api-beta.fasteignir.is/pictures/1099225/fec63e318292b00671f61cd0c8da05f1-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099225",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:25:54"
+    }
+  },
+  {
+    "id": "1099221",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(404)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "123900000",
+    "size": "121,2",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "28",
+    "image": "https://api-beta.fasteignir.is/pictures/1099221/c5bf35ac3b04e496fef39d1cc1da80da-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099221",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:21:54"
+    }
+  },
+  {
+    "id": "1099220",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(121)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "87900000",
+    "size": "93,6",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "33",
+    "image": "https://api-beta.fasteignir.is/pictures/1099220/3da2aa172c5ed2dd05cfd8513f04480e-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099220",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:21:27"
+    }
+  },
+  {
+    "id": "1099219",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(303)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "99900000",
+    "size": "98,8",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1099219/8bda678608afb6b17c42b618fad32d0d-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099219",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:20:55"
+    }
+  },
+  {
+    "id": "1099218",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Drápuhlíð",
+    "street_number": "47",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "69800000",
+    "size": "87,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1099218/2b82c152e7bc8bc8b12b5a0a193578ce-469x310.jpg",
+    "latitude": "64.13261221",
+    "longitude": "-21.90812642",
+    "legit_realestate_agent": "Guðmunda Björnsdóttir Stackhouse",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099217",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "316",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "94500000",
+    "size": "94,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "32",
+    "image": "https://api-beta.fasteignir.is/pictures/1099217/21fec2ad3df79a041ec64db1b9806daa-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099217",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:20:30"
+    }
+  },
+  {
+    "id": "1099216",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0226",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "86000000",
+    "size": "87",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "31",
+    "image": "https://api-beta.fasteignir.is/pictures/1099216/a6c47d19927185b40ee62d5a55ecc03b-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099216",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 11:19:14"
+    }
+  },
+  {
+    "id": "1099207",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0324",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "108900000",
+    "size": "111,4",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "30",
+    "image": "https://api-beta.fasteignir.is/pictures/1099207/0f8ec96130e6df6ca9902b60fc3debe0-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099207",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 10:52:57"
+    }
+  },
+  {
+    "id": "1099206",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "0416",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "93900000",
+    "size": "94,3",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1099206/6607e1ccc84f0702557fc72f1beb9a8b-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Íris Arna Geirsdóttir",
+    "openhouse": {
+      "property_id": "1099206",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 10:52:30"
+    }
+  },
+  {
+    "id": "1099203",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "street_name": "Meistaravellir",
+    "street_number": "15",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "119900000",
+    "size": "154,7",
+    "category": "Fjölbýlishús",
+    "rooms": "5",
+    "images_nr": "28",
+    "image": "https://api-beta.fasteignir.is/pictures/1099203/eae1dbb9b4fdcb9cf999df8030640532-469x310.jpg",
+    "latitude": "64.14735161",
+    "longitude": "-21.96105571",
+    "legit_realestate_agent": "Helen Sigurðardóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "790678",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Laugaborg",
+    "street_number": "(301)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "155000000",
+    "size": "126,2",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "917",
+    "image": "https://api-beta.fasteignir.is/pictures/790678/3e345f0ed255df7560f87246d32ba531-469x310.jpg",
+    "latitude": "64.146861",
+    "longitude": "-21.891715",
+    "legit_realestate_agent": null,
+    "openhouse": {
+      "property_id": "790678",
+      "date": "2026-08-25",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-08-25 10:46:17"
+    }
+  },
+  {
+    "id": "1099174",
+    "bedrooms": "0",
+    "bathrooms": "0",
+    "street_name": "Laugavegur",
+    "street_number": "76",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "99000000",
+    "size": "108,3",
+    "category": "Atvinnuhúsnæði",
+    "rooms": "0",
+    "images_nr": "14",
+    "image": "https://api-beta.fasteignir.is/pictures/1099174/f7181d1fe0bd06d1bc8b6824910699da-469x310.jpg",
+    "latitude": "64.1437629",
+    "longitude": "-21.91980992",
+    "legit_realestate_agent": "Jóhanna Margrét Jóhannsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099172",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Mávahlíð",
+    "street_number": "26",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "78500000",
+    "size": "98,3",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "43",
+    "image": "https://api-beta.fasteignir.is/pictures/1099172/b75f39a903f37b23a810fe88e3c74d1e-469x310.jpg",
+    "latitude": "64.13341382",
+    "longitude": "-21.91112982",
+    "legit_realestate_agent": "Bjarklind Þór ",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099136",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Hringbraut",
+    "street_number": "107",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "49900000",
+    "size": "52,7",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1099136/550a5f3d258462c4be3e2407051ebb3f-469x310.jpg",
+    "latitude": "64.14906062",
+    "longitude": "-21.95916181",
+    "legit_realestate_agent": "Haraldur Björnsson",
+    "openhouse": {
+      "property_id": "1099136",
+      "date": "2026-08-28",
+      "time_start": "12:00:00",
+      "time_end": "12:30:00",
+      "description": "Opið hús: Hringbraut 107, 101 Reykjavík, Íbúð merkt: 04 01 01.  Eignin verður sýnd föstudaginn 28. ágúst 2026 milli kl. 12:00 og kl. 12:30.",
+      "added_at": "2026-08-25 09:46:42"
+    }
+  },
+  {
+    "id": "1099133",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugavegur",
+    "street_number": "85",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "83900000",
+    "size": "88,2",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "16",
+    "image": "https://api-beta.fasteignir.is/pictures/1099133/e3eb01fad532a824cc376d899c4113c1-469x310.jpg",
+    "latitude": "64.1437027",
+    "longitude": "-21.91834354",
+    "legit_realestate_agent": "Albert Bjarni Úlfarsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099132",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Nesvegur",
+    "street_number": "61",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "71900000",
+    "size": "73,7",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "17",
+    "image": "https://api-beta.fasteignir.is/pictures/1099132/b0f197d521df17db78a338cc74b584d6-469x310.jpg",
+    "latitude": "64.1453547",
+    "longitude": "-21.97511894",
+    "legit_realestate_agent": "Albert Bjarni Úlfarsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099097",
+    "bedrooms": "4",
+    "bathrooms": "2",
+    "street_name": "Karlagata",
+    "street_number": "16",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "144900000",
+    "size": "145,7",
+    "category": "Parhús",
+    "rooms": "6",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/1099097/d876ba24b10cf396a0a45b35e6483326-469x310.jpg",
+    "latitude": "64.14096894",
+    "longitude": "-21.91675897",
+    "legit_realestate_agent": "Marta Jónsdóttir",
+    "openhouse": {
+      "property_id": "1099097",
+      "date": "2026-08-30",
+      "time_start": "14:00:00",
+      "time_end": "14:30:00",
+      "description": "Opið hús: Karlagata 16, 105 Reykjavík.  Eignin verður sýnd sunnudaginn 30. ágúst 2026 milli kl. 14:00 og kl. 14:30.",
+      "added_at": "2026-08-25 08:56:38"
+    }
+  },
+  {
+    "id": "1099092",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Reykjastræti",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "94900000",
+    "size": "71,6",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1099092/c0622becf1d788cee71425603fc5205f-469x310.jpg",
+    "latitude": "64.14926069",
+    "longitude": "-21.93567387",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "911065",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Reykjastræti",
+    "street_number": "5",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "105000000",
+    "size": "80,9",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/911065/7a2160ab29e5769ec4b1a32ea7c050a9-469x310.jpg",
+    "latitude": "64.14902334",
+    "longitude": "-21.93542237",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1099091",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -435,7 +1407,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "63",
-    "image": "https://api-beta.fasteignir.is/pictures/1097773/17a966b5ee3b294b1d042080e8eb0ce5-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1097773/737342ec38ef96153463240f2e5ec45b-469x310.jpg",
     "latitude": "64.152331",
     "longitude": "-21.953815",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
@@ -532,35 +1504,6 @@
     }
   },
   {
-    "id": "1098916",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "316",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "94500000",
-    "size": "94,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "64",
-    "image": "https://api-beta.fasteignir.is/pictures/1098916/6ae7d1f941df7c294b789114f350ae3c-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098916",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:50:48"
-    }
-  },
-  {
     "id": "1098954",
     "bedrooms": null,
     "bathrooms": null,
@@ -586,149 +1529,6 @@
       "time_start": null,
       "time_end": null,
       "description": null
-    }
-  },
-  {
-    "id": "1098947",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Kolagata",
-    "street_number": "1 (204)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "132000000",
-    "size": "117,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1098947/a0b3e2f636adb76c44918c0036bc7e91-469x310.jpg",
-    "latitude": "64.148788",
-    "longitude": "-21.93732",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1098945",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Flyðrugrandi",
-    "street_number": "10",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "70,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1098945/c2e2f3d64622a6c3e5c9e2c7bb960f3d-469x310.jpg",
-    "latitude": "64.14749",
-    "longitude": "-21.965393",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1098923",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(205)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "85900000",
-    "size": "86,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1098923/13209597007c7be9da1cace482ba72b5-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098923",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:06:24"
-    }
-  },
-  {
-    "id": "1098921",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(118)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "89800000",
-    "size": "92,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1098921/b118a57ad6a0043bb8071c8eb25d5901-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098921",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:05:49"
-    }
-  },
-  {
-    "id": "1098920",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(303)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "99900000",
-    "size": "98,8",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "22",
-    "image": "https://api-beta.fasteignir.is/pictures/1098920/6144f38b6d4610b8d01af9b17681d84b-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098920",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:04:59"
     }
   },
   {
@@ -788,35 +1588,6 @@
     }
   },
   {
-    "id": "1098906",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(404)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "123900000",
-    "size": "121,2",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "28",
-    "image": "https://api-beta.fasteignir.is/pictures/1098906/9922bf22dc620e522709db97ab8282f1-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098906",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:01:47"
-    }
-  },
-  {
     "id": "1098905",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -842,35 +1613,6 @@
       "time_start": null,
       "time_end": null,
       "description": null
-    }
-  },
-  {
-    "id": "1098903",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(307)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "87900000",
-    "size": "89,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1098903/5d421060e9970428dfa6c5d93ea927f5-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098903",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 17:01:17"
     }
   },
   {
@@ -927,35 +1669,6 @@
       "time_start": null,
       "time_end": null,
       "description": null
-    }
-  },
-  {
-    "id": "1098892",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0226",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "86000000",
-    "size": "87",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "31",
-    "image": "https://api-beta.fasteignir.is/pictures/1098892/dd79a14963df0e4861bd393bd501b489-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098892",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:59:41"
     }
   },
   {
@@ -1043,64 +1756,6 @@
     }
   },
   {
-    "id": "1098884",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0416",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "93900000",
-    "size": "94,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "26",
-    "image": "https://api-beta.fasteignir.is/pictures/1098884/ebf81476b165fbab9672a1f8f1439cee-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098884",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:58:26"
-    }
-  },
-  {
-    "id": "1098878",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0324",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "108900000",
-    "size": "111,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "30",
-    "image": "https://api-beta.fasteignir.is/pictures/1098878/5fa4d31ee982455a888985c37d66b678-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098878",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:57:44"
-    }
-  },
-  {
     "id": "1098876",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -1154,35 +1809,6 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": "Opið hús: Barmahlíð 41, 105 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd miðvikudaginn 26. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-24 16:56:22"
-    }
-  },
-  {
-    "id": "1098871",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(121)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "87900000",
-    "size": "93,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1098871/5a9cedd79af30d0783e26b7fd12565aa-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Íris Arna Geirsdóttir",
-    "openhouse": {
-      "property_id": "1098871",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
       "added_at": "2026-08-24 16:56:22"
     }
   },
@@ -1898,35 +2524,6 @@
       "time_start": null,
       "time_end": null,
       "description": null
-    }
-  },
-  {
-    "id": "790678",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Laugaborg",
-    "street_number": "(301)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "155000000",
-    "size": "126,2",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "894",
-    "image": "https://api-beta.fasteignir.is/pictures/790678/3e345f0ed255df7560f87246d32ba531-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": null,
-    "openhouse": {
-      "property_id": "790678",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 14:46:19"
     }
   },
   {
@@ -3349,64 +3946,6 @@
     }
   },
   {
-    "id": "1098189",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Laugaborg",
-    "street_number": "0510",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "199000000",
-    "size": "145,5",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1098189/674991a042eb13860ab3029b72a4b76e-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Sæþór Ólafsson",
-    "openhouse": {
-      "property_id": "1098189",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-23 20:13:26"
-    }
-  },
-  {
-    "id": "1098188",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0326",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "82900000",
-    "size": "81,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1098188/547070a9bc3c6c3bd658d174ae2d7405-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Sæþór Ólafsson",
-    "openhouse": {
-      "property_id": "1098188",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-23 20:10:20"
-    }
-  },
-  {
     "id": "1098187",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -3465,35 +4004,6 @@
     }
   },
   {
-    "id": "1098185",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0123",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "81900000",
-    "size": "84,9",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1098185/85eec0c7777ed6e91d75fe7990a764d2-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Sæþór Ólafsson",
-    "openhouse": {
-      "property_id": "1098185",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-23 20:06:57"
-    }
-  },
-  {
     "id": "1098184",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -3520,34 +4030,6 @@
       "time_end": "17:30:00",
       "description": null,
       "added_at": "2026-08-23 20:05:41"
-    }
-  },
-  {
-    "id": "1098174",
-    "bedrooms": "5",
-    "bathrooms": "2",
-    "street_name": "Tómasarhagi",
-    "street_number": "17",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "169900000",
-    "size": "197,6",
-    "category": "Fjölbýlishús",
-    "rooms": "6",
-    "images_nr": "46",
-    "image": "https://api-beta.fasteignir.is/pictures/1098174/fcb4238321cdec4a9c344af8d579c15a-469x310.jpg",
-    "latitude": "64.136961",
-    "longitude": "-21.95866148",
-    "legit_realestate_agent": "Þórir Skarphéðinsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
     }
   },
   {
@@ -5205,7 +5687,7 @@
     "category": "Fjölbýlishús",
     "rooms": "4",
     "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1097236/14ab71601acf4d32b9f3198d59ea65a2-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1097236/a3f9da84fa6606a46a0ac1584479a615-469x310.jpg",
     "latitude": "64.1401287",
     "longitude": "-21.90272993",
     "legit_realestate_agent": "Sigríður Kjartansdóttir",
@@ -5215,7 +5697,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": "Skipholt 50A - Falleg og rúmgóð íbúð á tveimur hæðum í góðu fjölbýli á frábærum stað í Reykjavík. Opið hús þriðjudaginn 25. ágúst frá kl.  17.00 - 17.30. Verið velkomin.",
-      "added_at": "2026-08-21 13:36:01"
+      "added_at": "2026-08-25 12:50:13"
     }
   },
   {
@@ -5434,34 +5916,6 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Sigríður Kjartansdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "770557",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur",
-    "street_number": "85",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "83900000",
-    "size": "88,2",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/770557/6a487cb6fc48565783e2e437d6166524-469x310.jpg",
-    "latitude": "64.1437027",
-    "longitude": "-21.91834354",
-    "legit_realestate_agent": "Albert Bjarni Úlfarsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -5976,34 +6430,6 @@
     }
   },
   {
-    "id": "1097043",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Bolholt",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "124000000",
-    "size": "116,5",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "5",
-    "image": "https://api-beta.fasteignir.is/pictures/1097043/87a2813562156d92ee81c82929987ee7-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Sigríður Kjartansdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1097017",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -6144,34 +6570,6 @@
     }
   },
   {
-    "id": "1096922",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Nesvegur",
-    "street_number": "61",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "71900000",
-    "size": "73,7",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1096922/d29e3303792cecea6e8a5e55cd2f9476-469x310.jpg",
-    "latitude": "64.1453547",
-    "longitude": "-21.97511894",
-    "legit_realestate_agent": "Albert Bjarni Úlfarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1096892",
     "bedrooms": null,
     "bathrooms": null,
@@ -6226,34 +6624,6 @@
       "time_end": "18:00:00",
       "description": "Opið hús: Neshagi 9, 107 Reykjavík, Íbúð merkt: 03 00 01.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
       "added_at": "2026-08-21 09:19:51"
-    }
-  },
-  {
-    "id": "1096858",
-    "bedrooms": "1",
-    "bathrooms": "2",
-    "street_name": "Hallgerðargata",
-    "street_number": "5 (307)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "104900000",
-    "size": "105,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "41",
-    "image": "https://api-beta.fasteignir.is/pictures/1096858/a8ee1b0033c552832659d94f811ae533-469x310.jpg",
-    "latitude": "64.14758479",
-    "longitude": "-21.89181247",
-    "legit_realestate_agent": "Þórunn Pálsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
     }
   },
   {
@@ -6454,122 +6824,6 @@
     }
   },
   {
-    "id": "1096777",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(124)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "79500000",
-    "size": "81,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "11",
-    "image": "https://api-beta.fasteignir.is/pictures/1096777/de37ee9a9135b2e2800f6ea24be0ff0e-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
-    "openhouse": {
-      "property_id": "1096777",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-20 23:26:48"
-    }
-  },
-  {
-    "id": "1096776",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0229",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "106900000",
-    "size": "108,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "13",
-    "image": "https://api-beta.fasteignir.is/pictures/1096776/b141b6b431317225b638f5ded24af1c1-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
-    "openhouse": {
-      "property_id": "1096776",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-20 23:25:30"
-    }
-  },
-  {
-    "id": "1096775",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0419",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "145900000",
-    "size": "122,4",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "12",
-    "image": "https://api-beta.fasteignir.is/pictures/1096775/c0bf6c1d640f2fd6261805e4d5f2b417-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
-    "openhouse": {
-      "property_id": "1096775",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-20 23:24:15"
-    }
-  },
-  {
-    "id": "1096774",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0511",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "115900000",
-    "size": "115,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "11",
-    "image": "https://api-beta.fasteignir.is/pictures/1096774/2306fe2f36fe60ddb64399adb96038b7-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Bára Gunnlaugsdóttir",
-    "openhouse": {
-      "property_id": "1096774",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-20 23:22:46"
-    }
-  },
-  {
     "id": "1096737",
     "bedrooms": "4",
     "bathrooms": "1",
@@ -6641,7 +6895,7 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1096732/d0ec80f00bc195744462202dd376ffe9-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1096732/8bb3fc4ed9298dc7f0c1b6eb1bb5a008-469x310.jpg",
     "latitude": "64.14911447",
     "longitude": "-21.974491",
     "legit_realestate_agent": "Andri Sigurðsson",
@@ -10050,35 +10304,6 @@
     }
   },
   {
-    "id": "1095599",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Stigahlíð",
-    "street_number": "26",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "83",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "41",
-    "image": "https://api-beta.fasteignir.is/pictures/1095599/68ac37899c5560ff8e5dc8253f675d54-469x310.jpg",
-    "latitude": "64.1329208",
-    "longitude": "-21.90170456",
-    "legit_realestate_agent": "Viktoría Rannveig Larsen",
-    "openhouse": {
-      "property_id": "1095599",
-      "date": "2026-08-25",
-      "time_start": "17:30:00",
-      "time_end": "18:00:00",
-      "description": "Opið hús: Stigahlíð 26, 105 Reykjavík, Íbúð merkt: 03 04 02.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
-      "added_at": "2026-08-18 22:25:29"
-    }
-  },
-  {
     "id": "1095600",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -10105,6 +10330,35 @@
       "time_end": "17:30:00",
       "description": null,
       "added_at": "2026-08-24 22:41:09"
+    }
+  },
+  {
+    "id": "1095599",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Stigahlíð",
+    "street_number": "26",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "83",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "41",
+    "image": "https://api-beta.fasteignir.is/pictures/1095599/68ac37899c5560ff8e5dc8253f675d54-469x310.jpg",
+    "latitude": "64.1329208",
+    "longitude": "-21.90170456",
+    "legit_realestate_agent": "Viktoría Rannveig Larsen",
+    "openhouse": {
+      "property_id": "1095599",
+      "date": "2026-08-25",
+      "time_start": "17:30:00",
+      "time_end": "18:00:00",
+      "description": "Opið hús: Stigahlíð 26, 105 Reykjavík, Íbúð merkt: 03 04 02.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
+      "added_at": "2026-08-18 22:25:29"
     }
   },
   {
@@ -10416,34 +10670,6 @@
     }
   },
   {
-    "id": "1095415",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Stórholt",
-    "street_number": "31",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "61900000",
-    "size": "76,7",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "23",
-    "image": "https://api-beta.fasteignir.is/pictures/1095415/85daad468bd76d223da2761e7fb2bf2f-469x310.jpg",
-    "latitude": "64.14005068",
-    "longitude": "-21.9088488",
-    "legit_realestate_agent": null,
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1095367",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -10656,62 +10882,6 @@
     "rooms": "4",
     "images_nr": "13",
     "image": "https://api-beta.fasteignir.is/pictures/1095325/1c4d604b7cb0437c8283afbf44954836-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Sigurður Gunnlaugsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1095324",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 170 íb405 Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "97900000",
-    "size": "90,2",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "12",
-    "image": "https://api-beta.fasteignir.is/pictures/1095324/c465afcc39be131b02d09503b9710881-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Sigurður Gunnlaugsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1095323",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 170 íb402 Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "97900000",
-    "size": "87,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "12",
-    "image": "https://api-beta.fasteignir.is/pictures/1095323/309528eb26d9c25474dd773f72a81cbe-469x310.jpg",
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Sigurður Gunnlaugsson",
@@ -11079,62 +11249,6 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Þóra Þrastardóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1095270",
-    "bedrooms": "0",
-    "bathrooms": "0",
-    "street_name": "Laugavegur",
-    "street_number": "76",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "99000000",
-    "size": "108,3",
-    "category": "Atvinnuhúsnæði",
-    "rooms": "0",
-    "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1095270/aab0cbed912c65d5329c768b03327267-469x310.jpg",
-    "latitude": "64.1437629",
-    "longitude": "-21.91980992",
-    "legit_realestate_agent": "Jóhanna Margrét Jóhannsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1095268",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Mávahlíð",
-    "street_number": "26",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "78500000",
-    "size": "98,3",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "43",
-    "image": "https://api-beta.fasteignir.is/pictures/1095268/f99beab73893cb4ecc555dbeeb54db1f-469x310.jpg",
-    "latitude": "64.13341382",
-    "longitude": "-21.91112982",
-    "legit_realestate_agent": "Bjarklind Þór ",
     "openhouse": {
       "property": null,
       "date": null,
@@ -11921,34 +12035,6 @@
     "latitude": "64.14317065",
     "longitude": "-21.91043214",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1094956",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Drápuhlíð",
-    "street_number": "24",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "64900000",
-    "size": "79,4",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "19",
-    "image": "https://api-beta.fasteignir.is/pictures/1094956/5ae40c0a1ea02482e4b67076640b6e7a-469x310.jpg",
-    "latitude": "64.13292088",
-    "longitude": "-21.91268852",
-    "legit_realestate_agent": "Þórir Skarphéðinsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -13921,35 +14007,6 @@
     }
   },
   {
-    "id": "1093842",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "0418",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "89900000",
-    "size": "86,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "25",
-    "image": "https://api-beta.fasteignir.is/pictures/1093842/b84c2f85120e711cbf1c9ec0df086430-469x310.jpg",
-    "latitude": "64.146861",
-    "longitude": "-21.891715",
-    "legit_realestate_agent": "Sæþór Ólafsson",
-    "openhouse": {
-      "property_id": "1093842",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-23 20:11:47"
-    }
-  },
-  {
     "id": "1093831",
     "bedrooms": "3",
     "bathrooms": "1",
@@ -14050,7 +14107,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1093757/cbd33ceffa19c5b360ac3b2f2f86fc31-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1093757/92c6a87d0cf19ff29f8b7eb677906525-469x310.jpg",
     "latitude": "64.15106682",
     "longitude": "-21.87975416",
     "legit_realestate_agent": "Aðalsteinn Jón Bergdal",
@@ -15677,7 +15734,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "15",
-    "image": "https://api-beta.fasteignir.is/pictures/1092750/9617f55010342464f7d7119c9ed2216e-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092750/b47a9b6dcc9e122becf6ff0acb51c157-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15687,7 +15744,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:11:30"
+      "added_at": "2026-08-25 12:09:25"
     }
   },
   {
@@ -15734,7 +15791,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "15",
-    "image": "https://api-beta.fasteignir.is/pictures/1092748/e3adde9560f4391301095437c2dd76cc-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092748/df8a3683c146d0b1e681984bbb541e6e-469x310.jpg",
     "latitude": "64.143045",
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15744,7 +15801,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:10:20"
+      "added_at": "2026-08-25 12:05:09"
     }
   },
   {
@@ -15763,7 +15820,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1092746/79006e9285e66d7af6823c71eff8367a-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092746/3025e18531988f96c902519326a7b90c-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15773,7 +15830,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:08:46"
+      "added_at": "2026-08-25 12:12:13"
     }
   },
   {
@@ -15792,7 +15849,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1092743/81e44b364cee61dee05569dca631396c-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092743/bb0c08c5da808acdfc7d02b0d6e28f1a-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15802,7 +15859,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:07:24"
+      "added_at": "2026-08-25 12:03:49"
     }
   },
   {
@@ -15821,7 +15878,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1092742/da9f2ace8fab4bc60ae8fc91b196598f-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092742/720c0f8de4e1f7dda274b5455b6adaaf-469x310.jpg",
     "latitude": "64.143045",
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15831,7 +15888,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:06:11"
+      "added_at": "2026-08-25 12:02:38"
     }
   },
   {
@@ -15850,7 +15907,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1092741/badc9331121eb60bc75a084739726bae-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092741/6510fff0d4853bbbc27091da46c98e7b-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15860,7 +15917,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:05:03"
+      "added_at": "2026-08-25 12:13:17"
     }
   },
   {
@@ -15879,7 +15936,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1092740/0792157c87b9dbdd32069c82c62c5ab8-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092740/e2dfac2d24d025982cbeb318bcec215d-469x310.jpg",
     "latitude": "64.143045",
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15889,7 +15946,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:01:51"
+      "added_at": "2026-08-25 12:08:15"
     }
   },
   {
@@ -15908,7 +15965,7 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1092737/6763fa8ba846c3402729d606fe4d53e2-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1092737/fbbb28ad324b641ffcb5df959d3b5fec-469x310.jpg",
     "latitude": "64.146861",
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
@@ -15918,7 +15975,7 @@
       "time_start": "17:00:00",
       "time_end": "17:30:00",
       "description": null,
-      "added_at": "2026-08-13 14:00:49"
+      "added_at": "2026-08-25 12:11:08"
     }
   },
   {
@@ -17281,7 +17338,7 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "35",
-    "image": "https://api-beta.fasteignir.is/pictures/1091919/a761baac4faaa7fa3bea80677e085f63-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1091919/f3a6b4f954190f0f41939b1057529322-469x310.jpg",
     "latitude": "64.142106",
     "longitude": "-21.911909",
     "legit_realestate_agent": "Bára Gunnlaugsdóttir",
@@ -17808,21 +17865,22 @@
       "zip": "101",
       "town": "Reykjavík"
     },
-    "price": "52500000",
+    "price": "0",
     "size": "47,6",
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "13",
-    "image": "https://api-beta.fasteignir.is/pictures/1091205/061e2f5d46517178f69f2a97d1cb7e39-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1091205/c53e6167782a8892133f0ea0c524ea0f-469x310.jpg",
     "latitude": "64.14935561",
     "longitude": "-21.94426088",
     "legit_realestate_agent": "Marta Jónsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1091205",
+      "date": "2026-08-29",
+      "time_start": "13:00:00",
+      "time_end": "13:30:00",
+      "description": "Opið hús: Ránargata 4, 101 Reykjavík, Íbúð merkt: 01 03 01.  Eignin verður sýnd laugardaginn 29. ágúst 2026 milli kl. 13:00 og kl. 13:30.",
+      "added_at": "2026-08-25 09:38:08"
     }
   },
   {
@@ -17929,62 +17987,6 @@
     "latitude": "64.14485551",
     "longitude": "-21.92039856",
     "legit_realestate_agent": "Úlfar Þór Davíðsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1090878",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Rauðalækur",
-    "street_number": "69",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "62900000",
-    "size": "89,3",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1090878/912dabc4546ab9d700d788e88e2e1679-469x310.jpg",
-    "latitude": "64.14976692",
-    "longitude": "-21.87377728",
-    "legit_realestate_agent": "Einar Örn Ágústsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1090864",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Reykjastræti",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "94900000",
-    "size": "71,6",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "0",
-    "image": "https://api-beta.fasteignir.is/pictures/1090864/bddc36768b9848a6bab9b0a1fdb070ae-469x310.jpg",
-    "latitude": "64.14926069",
-    "longitude": "-21.93567387",
-    "legit_realestate_agent": null,
     "openhouse": {
       "property": null,
       "date": null,
@@ -18153,34 +18155,6 @@
     "latitude": "64.13467575",
     "longitude": "-21.91891008",
     "legit_realestate_agent": "Helen Sigurðardóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1090684",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Fálkagata",
-    "street_number": "26",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "45900000",
-    "size": "38,9",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "14",
-    "image": "https://api-beta.fasteignir.is/pictures/1090684/0a42dc47096391938bcf71ce7b211038-469x310.jpg",
-    "latitude": "64.13811937",
-    "longitude": "-21.95802946",
-    "legit_realestate_agent": "Eggert Maríuson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -19478,34 +19452,6 @@
     }
   },
   {
-    "id": "1089462",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Hringbraut",
-    "street_number": "107",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "49900000",
-    "size": "52,7",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "26",
-    "image": "https://api-beta.fasteignir.is/pictures/1089462/ef1dcb7a950d802a36bc1afdbd71bbf7-469x310.jpg",
-    "latitude": "64.14906062",
-    "longitude": "-21.95916181",
-    "legit_realestate_agent": "Haraldur Björnsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1089453",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -20179,6 +20125,34 @@
     }
   },
   {
+    "id": "1088938",
+    "bedrooms": "4",
+    "bathrooms": "3",
+    "street_name": "Starhagi",
+    "street_number": "6",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "345,9",
+    "category": "Einbýlishús",
+    "rooms": "7",
+    "images_nr": "97",
+    "image": "https://api-beta.fasteignir.is/pictures/1088938/16efcca53c1259beee249cbcf6b9a5d0-469x310.jpg",
+    "latitude": "64.13550985",
+    "longitude": "-21.9578525",
+    "legit_realestate_agent": "Kristinn B. Ragnarsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1088865",
     "bedrooms": "1",
     "bathrooms": "2",
@@ -20711,34 +20685,6 @@
     }
   },
   {
-    "id": "1088536",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 170 íb314 Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "84900000",
-    "size": "80,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "12",
-    "image": "https://api-beta.fasteignir.is/pictures/1088536/9aa574ee83fdf7096bd57c5e8792ce32-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Margrét Rós Einarsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1088513",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -21011,34 +20957,6 @@
     "latitude": "64.15040032",
     "longitude": "-21.88211159",
     "legit_realestate_agent": null,
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1088004",
-    "bedrooms": "4",
-    "bathrooms": "1",
-    "street_name": "Meistaravellir",
-    "street_number": "15",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "119900000",
-    "size": "154,7",
-    "category": "Fjölbýlishús",
-    "rooms": "5",
-    "images_nr": "28",
-    "image": "https://api-beta.fasteignir.is/pictures/1088004/a7a4df0c16c179cdf7152752f0d68b6c-469x310.jpg",
-    "latitude": "64.14735161",
-    "longitude": "-21.96105571",
-    "legit_realestate_agent": "Helen Sigurðardóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -22049,11 +21967,12 @@
     "longitude": "-21.93552829",
     "legit_realestate_agent": "Brandur Gunnarsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1085665",
+      "date": "2026-08-27",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Grundarstígur 8, 101 Reykjavík, Íbúð merkt: 01 03 01.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-07-29 09:56:17"
     }
   },
   {
@@ -22272,34 +22191,6 @@
     "latitude": "64.14276215",
     "longitude": "-21.92445403",
     "legit_realestate_agent": "Guðbjörg G. Sveinbjörnsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "902928",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Reykjastræti",
-    "street_number": "5",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "105000000",
-    "size": "80,9",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "0",
-    "image": "https://api-beta.fasteignir.is/pictures/902928/10e048bd1a49455a25a080c0a369f2f6-469x310.jpg",
-    "latitude": "64.14902334",
-    "longitude": "-21.93542237",
-    "legit_realestate_agent": null,
     "openhouse": {
       "property": null,
       "date": null,
@@ -22774,34 +22665,6 @@
     "rooms": "3",
     "images_nr": "27",
     "image": "https://api-beta.fasteignir.is/pictures/1083901/115a295fe2f86aaf557c35dde2e88e13-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": null,
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1083900",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur 170 íb 314 - Heklureitur",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "84900000",
-    "size": "80,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1083900/b8b245f12909b509f4d63799bcfe9974-469x310.jpg",
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": null,
@@ -28096,6 +27959,146 @@
     "image": "https://api-beta.fasteignir.is/pictures/1066090/6c8e41917d3a84067c26653dcb371f6a-469x310.jpg",
     "latitude": "64.15211253",
     "longitude": "21.95320158",
+    "legit_realestate_agent": "Kári Sighvatsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1066089",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Vesturvin V2 - íbúð 405",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "141500000",
+    "size": "241,4",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "37",
+    "image": "https://api-beta.fasteignir.is/pictures/1066089/5cbb5a02bdb5c41339e4f5f068ec5d1f-469x310.jpg",
+    "latitude": "64.15211253",
+    "longitude": "21.95320158",
+    "legit_realestate_agent": "Kári Sighvatsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1066088",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Vesturvin V1 íb 605",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "165000000",
+    "size": "119",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "40",
+    "image": "https://api-beta.fasteignir.is/pictures/1066088/83b9debf4a5ffd9229af8bfa94b1771d-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Kári Sighvatsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1066087",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V1 - íbúð 508",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "83300000",
+    "size": "71,1",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "27",
+    "image": "https://api-beta.fasteignir.is/pictures/1066087/b13bc33d4b905b232fb8b10df5f06745-469x310.jpg",
+    "latitude": "64.15253396",
+    "longitude": "-21.952684",
+    "legit_realestate_agent": "Kári Sighvatsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1066086",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V1 - íbúð 409",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "80000000",
+    "size": "69,5",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "27",
+    "image": "https://api-beta.fasteignir.is/pictures/1066086/83a398530b9d2b0c45442ebfed80c3e1-469x310.jpg",
+    "latitude": "64.15248286",
+    "longitude": "-21.95244475",
+    "legit_realestate_agent": "Kári Sighvatsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1066085",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Vesturvin V1 - íbúð 308",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "100500000",
+    "size": "94,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "28",
+    "image": "https://api-beta.fasteignir.is/pictures/1066085/b80567a78e679dd059b359c4bd4ccb1b-469x310.jpg",
+    "latitude": "64.1525521",
+    "longitude": "-21.95271234",
     "legit_realestate_agent": "Kári Sighvatsson",
     "openhouse": {
       "property": null,
