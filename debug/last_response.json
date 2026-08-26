@@ -1,5 +1,149 @@
 [
   {
+    "id": "1099622",
+    "bedrooms": "5",
+    "bathrooms": "3",
+    "street_name": "Smáragata",
+    "street_number": "4",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "369,2",
+    "category": "Einbýlishús",
+    "rooms": "9",
+    "images_nr": "56",
+    "image": "https://api-beta.fasteignir.is/pictures/1099622/bc6bb5f53f2ae14548c1fd750f6b165b-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Berglind Hólm Birgisdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1099621",
+    "bedrooms": "4",
+    "bathrooms": "1",
+    "street_name": "Grenimelur",
+    "street_number": "47",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "157900000",
+    "size": "171,3",
+    "category": "Hæð",
+    "rooms": "5",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/1099621/78ff8d8e6352facfb5af0e8a58f9066e-469x310.jpg",
+    "latitude": "64.1457441",
+    "longitude": "-21.96018391",
+    "legit_realestate_agent": "Elka Guðmundsdóttir",
+    "openhouse": {
+      "property_id": "1099621",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "13:30:00",
+      "description": "Opið hús: Grenimelur 47, 107 Reykjavík.  Eignin verður sýnd sunnudaginn 30. ágúst 2026 milli kl. 13:00 og kl. 13:30.",
+      "added_at": "2026-08-26 08:20:19"
+    }
+  },
+  {
+    "id": "1099618",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Eskihlíð",
+    "street_number": "16",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "86900000",
+    "size": "119,1",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "31",
+    "image": "https://api-beta.fasteignir.is/pictures/1099618/38b118a3de7c89f709a382d639114288-469x310.jpg",
+    "latitude": "64.133316",
+    "longitude": "-21.91687511",
+    "legit_realestate_agent": "Kristín María Gunnarsdóttir",
+    "openhouse": {
+      "property_id": "1099618",
+      "date": "2026-08-27",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Eskihlíð 16, 105 Reykjavík, Íbúð merkt: 01 04 01.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-08-26 08:12:02"
+    }
+  },
+  {
+    "id": "1099611",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugavegur",
+    "street_number": "168",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "84900000",
+    "size": "75,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "16",
+    "image": "https://api-beta.fasteignir.is/pictures/1099611/39c21ff98b211eb42b9b5eb23e7a904e-469x310.jpg",
+    "latitude": "64.14187097",
+    "longitude": "-21.90361236",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property_id": "1099611",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-26 06:41:49"
+    }
+  },
+  {
+    "id": "1099610",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugavegur",
+    "street_number": "168",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "81900000",
+    "size": "75,9",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "16",
+    "image": "https://api-beta.fasteignir.is/pictures/1099610/6e6918c2af5a44753942f7f3f8c4c9a8-469x310.jpg",
+    "latitude": "64.14187097",
+    "longitude": "-21.90361236",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property_id": "1099610",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-26 06:41:21"
+    }
+  },
+  {
     "id": "1099574",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -160,12 +304,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099446",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:35:35"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -189,12 +332,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099445",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:34:17"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -218,12 +360,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099444",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:32:42"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -247,12 +388,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099443",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:32:24"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -276,12 +416,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099438",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:28:26"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -300,7 +439,7 @@
     "category": "Fjölbýlishús",
     "rooms": "2",
     "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1099434/1a8a207dc3c808d5d2ed867ad836dad8-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1099434/e4cd8f0d766483186b4050c40614be35-469x310.jpg",
     "latitude": "64.146808",
     "longitude": "-21.925549",
     "legit_realestate_agent": "Ólafur Finnbogason",
@@ -333,12 +472,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099429",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:24:57"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -362,12 +500,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099425",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:24:22"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -419,12 +556,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099417",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:22:22"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -448,12 +584,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099415",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:21:36"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1121,12 +1256,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": null,
     "openhouse": {
-      "property_id": "790678",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:13:30"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1290,12 +1424,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Bára Gunnlaugsdóttir",
     "openhouse": {
-      "property_id": "1099296",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 13:06:13"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1319,12 +1452,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Bára Gunnlaugsdóttir",
     "openhouse": {
-      "property_id": "1099295",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 13:05:12"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1348,12 +1480,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Bára Gunnlaugsdóttir",
     "openhouse": {
-      "property_id": "1099294",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 13:04:13"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1406,12 +1537,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Bára Gunnlaugsdóttir",
     "openhouse": {
-      "property_id": "1099292",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 13:03:29"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -1661,12 +1791,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Íris Arna Geirsdóttir",
     "openhouse": {
-      "property_id": "1099221",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 15:33:07"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2056,11 +2185,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1099086",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-25 08:21:16"
     }
   },
   {
@@ -2084,11 +2214,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "704394",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-25 08:21:09"
     }
   },
   {
@@ -2168,11 +2299,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1099057",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-25 05:34:54"
     }
   },
   {
@@ -2196,11 +2328,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1099056",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-25 05:34:48"
     }
   },
   {
@@ -2224,11 +2357,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1099055",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-25 05:34:43"
     }
   },
   {
@@ -2841,12 +2975,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098865",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:49:47"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2870,12 +3003,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098864",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:49:26"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2899,12 +3031,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098863",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:47:37"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2928,12 +3059,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098862",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:46:17"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2957,12 +3087,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098861",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:45:42"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -2986,12 +3115,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098860",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:45:21"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3015,12 +3143,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098858",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:42:43"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3044,12 +3171,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098857",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:42:24"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3073,12 +3199,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098856",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:41:55"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3102,12 +3227,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098855",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:41:08"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3131,12 +3255,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098854",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:40:41"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -3160,12 +3283,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Gabríel Máni Hallson",
     "openhouse": {
-      "property_id": "1098853",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 16:40:23"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4289,12 +4411,11 @@
     "longitude": "-21.96745007",
     "legit_realestate_agent": "Ingibjörg Agnes Jónsdóttir",
     "openhouse": {
-      "property_id": "1098397",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Boðagrandi 3, 107 Reykjavík, BJALLA merkt:  3 A.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-24 10:44:52"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4346,12 +4467,11 @@
     "longitude": "-21.91515748",
     "legit_realestate_agent": "Anna Sigurðardóttir",
     "openhouse": {
-      "property_id": "1098364",
-      "date": "2026-08-25",
-      "time_start": "16:00:00",
-      "time_end": "16:30:00",
-      "description": "Opið hús: Eskihlíð 22, 105 Reykjavík, Íbúð merkt: 01 03 01.  Þriðja hæð til vinstri.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 16:00 og kl. 16:30.",
-      "added_at": "2026-08-24 10:12:41"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4375,12 +4495,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1098343",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 09:44:19"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4404,12 +4523,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1098342",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 09:43:50"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4433,12 +4551,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1098341",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 09:42:52"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4462,12 +4579,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1098340",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 09:42:23"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4491,12 +4607,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Kjartan Ísak Guðmundsson",
     "openhouse": {
-      "property_id": "1098339",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 09:42:10"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4773,12 +4888,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1098206",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:46:10"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4802,12 +4916,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1098205",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:44:42"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4831,12 +4944,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1098204",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:42:15"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4860,12 +4972,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1098202",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:40:14"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4889,12 +5000,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1098201",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:39:19"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4918,12 +5028,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098189",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:19:27"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4947,12 +5056,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098188",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:18:39"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -4976,12 +5084,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098187",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:23:53"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -5005,12 +5112,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098186",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:24:22"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -5034,12 +5140,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098185",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:18:16"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -5063,12 +5168,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1098184",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:23:26"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -5711,12 +5815,11 @@
     "longitude": "-21.95582521",
     "legit_realestate_agent": "Ásta María Benónýsdóttir",
     "openhouse": {
-      "property_id": "1098031",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": " ",
-      "added_at": "2026-08-23 10:45:24"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6192,12 +6295,11 @@
     "longitude": "-21.97277504",
     "legit_realestate_agent": "Margrét Rós Einarsdóttir",
     "openhouse": {
-      "property_id": "1097719",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Rekagrandi 7, 107 Reykjavík, Íbúð merkt: 201.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-22 11:17:24"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6418,12 +6520,11 @@
     "longitude": "-21.94798057",
     "legit_realestate_agent": "Hera Björk Þórhallsdóttir",
     "openhouse": {
-      "property_id": "1097618",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Nýlendugata 22, 101 Reykjavík, íbúð 201.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-21 23:45:49"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6476,12 +6577,11 @@
     "longitude": "-21.96466984",
     "legit_realestate_agent": "Brynjar Þór Sumarliðason",
     "openhouse": {
-      "property_id": "1097531",
-      "date": "2026-08-25",
-      "time_start": "16:00:00",
-      "time_end": "16:30:00",
-      "description": "Opið hús þriðjudaginn 25. ágúst milli kl. 16:00 og 16:30",
-      "added_at": "2026-08-21 20:08:33"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -6510,35 +6610,6 @@
       "time_start": null,
       "time_end": null,
       "description": null
-    }
-  },
-  {
-    "id": "1097471",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Eskihlíð",
-    "street_number": "16",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "86900000",
-    "size": "119,1",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "31",
-    "image": "https://api-beta.fasteignir.is/pictures/1097471/88220467ee0925b6b4ce822206c87f1f-469x310.jpg",
-    "latitude": "64.133316",
-    "longitude": "-21.91687511",
-    "legit_realestate_agent": "Kristín María Gunnarsdóttir",
-    "openhouse": {
-      "property_id": "1097471",
-      "date": "2026-08-27",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Eskihlíð 16, 105 Reykjavík, Íbúð merkt: 01 04 01.  Eignin verður sýnd fimmtudaginn 27. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-21 17:27:32"
     }
   },
   {
@@ -6675,12 +6746,11 @@
     "longitude": "-21.90272993",
     "legit_realestate_agent": "Sigríður Kjartansdóttir",
     "openhouse": {
-      "property_id": "1097236",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Skipholt 50A - Falleg og rúmgóð íbúð á tveimur hæðum í góðu fjölbýli á frábærum stað í Reykjavík. Opið hús þriðjudaginn 25. ágúst frá kl.  17.00 - 17.30. Verið velkomin.",
-      "added_at": "2026-08-25 12:50:13"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -7322,12 +7392,11 @@
     "longitude": "-21.91223322",
     "legit_realestate_agent": "Brynjar Þór Sumarliðason",
     "openhouse": {
-      "property_id": "1096784",
-      "date": "2026-08-25",
-      "time_start": "17:15:00",
-      "time_end": "17:45:00",
-      "description": "Opið hús þriðjudaginn 25. ágúst milli kl. 17:15 og 17:45",
-      "added_at": "2026-08-20 23:46:57"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8640,12 +8709,11 @@
     "longitude": "-21.91243032",
     "legit_realestate_agent": "Aðalsteinn Jón Bergdal",
     "openhouse": {
-      "property_id": "1096327",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Rauðarárstígur 3, 105 Reykjavík, Íbúð merkt: 01 01 02.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-20 11:26:53"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8697,12 +8765,11 @@
     "longitude": null,
     "legit_realestate_agent": "Ómar Hvanndal Ólafsson",
     "openhouse": {
-      "property_id": "1096319",
-      "date": "2026-08-25",
-      "time_start": "17:45:00",
-      "time_end": "18:15:00",
-      "description": "Opið hús: Víðimelur 47, 107 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:45 og kl. 18:15.",
-      "added_at": "2026-08-20 11:17:53"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -8726,12 +8793,11 @@
     "longitude": null,
     "legit_realestate_agent": null,
     "openhouse": {
-      "property_id": "1096318",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": "Opið hús: Tómasarhagi 44, 107 Reykjavík, Íbúð merkt: 01 00 01.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:00 og kl. 17:30.",
-      "added_at": "2026-08-20 11:17:01"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -9737,12 +9803,11 @@
     "longitude": "-21.89682134",
     "legit_realestate_agent": "Páll Þórólfsson",
     "openhouse": {
-      "property_id": "1095877",
-      "date": "2026-08-25",
-      "time_start": "16:30:00",
-      "time_end": "17:00:00",
-      "description": "Opið hús: Skipholt 62, 105 Reykjavík.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 16:30 og kl. 17:00.",
-      "added_at": "2026-08-21 15:05:06"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -10718,41 +10783,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Móeiður Svala",
     "openhouse": {
-      "property_id": "1095602",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:43:19"
-    }
-  },
-  {
-    "id": "1095600",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugaborg",
-    "street_number": "(216)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "84000000",
-    "size": "83,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "13",
-    "image": "https://api-beta.fasteignir.is/pictures/1095600/265fc41d9c332186aea5f00a58c5285a-469x310.jpg",
-    "latitude": "64.143045",
-    "longitude": "-21.898759",
-    "legit_realestate_agent": "Móeiður Svala",
-    "openhouse": {
-      "property_id": "1095600",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-24 22:41:09"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -10776,12 +10811,39 @@
     "longitude": "-21.90170456",
     "legit_realestate_agent": "Viktoría Rannveig Larsen",
     "openhouse": {
-      "property_id": "1095599",
-      "date": "2026-08-25",
-      "time_start": "17:30:00",
-      "time_end": "18:00:00",
-      "description": "Opið hús: Stigahlíð 26, 105 Reykjavík, Íbúð merkt: 03 04 02.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
-      "added_at": "2026-08-18 22:25:29"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1095600",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg",
+    "street_number": "(216)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "84000000",
+    "size": "83,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1095600/265fc41d9c332186aea5f00a58c5285a-469x310.jpg",
+    "latitude": "64.143045",
+    "longitude": "-21.898759",
+    "legit_realestate_agent": "Móeiður Svala",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -14422,12 +14484,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Sæþór Ólafsson",
     "openhouse": {
-      "property_id": "1093842",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 14:19:02"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -14564,12 +14625,11 @@
     "longitude": "-21.89599071",
     "legit_realestate_agent": "Eggert Maríuson",
     "openhouse": {
-      "property_id": "1093738",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": " ",
-      "added_at": "2026-08-15 12:41:15"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -15939,12 +15999,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092750",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:09:25"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -15996,12 +16055,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092748",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:05:09"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16025,12 +16083,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092746",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:12:13"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16054,12 +16111,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092743",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:03:49"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16083,12 +16139,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092742",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:02:38"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16112,12 +16167,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092741",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:13:17"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16141,12 +16195,11 @@
     "longitude": "-21.898759",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092740",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:08:15"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16170,12 +16223,11 @@
     "longitude": "-21.891715",
     "legit_realestate_agent": "Svan G Guðlaugsson",
     "openhouse": {
-      "property_id": "1092737",
-      "date": "2026-08-25",
-      "time_start": "17:00:00",
-      "time_end": "17:30:00",
-      "description": null,
-      "added_at": "2026-08-25 12:11:08"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -16983,11 +17035,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1092346",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-13 08:28:12"
     }
   },
   {
@@ -17011,11 +17064,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1092345",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-13 08:27:56"
     }
   },
   {
@@ -17039,11 +17093,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1092344",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-13 08:27:47"
     }
   },
   {
@@ -17570,34 +17625,6 @@
     "latitude": "64.14485551",
     "longitude": "-21.92039855",
     "legit_realestate_agent": "Oliver Bergmann",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1091814",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur",
-    "street_number": "168",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "84900000",
-    "size": "75,5",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1091814/f2e9f2e55e49b662e0e6029b0cba89fe-469x310.jpg",
-    "latitude": "64.14187097",
-    "longitude": "-21.90361236",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -18468,11 +18495,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090464",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-09 18:55:00"
     }
   },
   {
@@ -18552,11 +18580,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090396",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-09 10:52:38"
     }
   },
   {
@@ -18580,11 +18609,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090393",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-09 10:51:16"
     }
   },
   {
@@ -18692,11 +18722,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090355",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-09 08:04:55"
     }
   },
   {
@@ -18748,11 +18779,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090353",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-09 08:04:46"
     }
   },
   {
@@ -18860,11 +18892,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090316",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-08 16:04:29"
     }
   },
   {
@@ -18888,11 +18921,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090314",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-08 16:04:16"
     }
   },
   {
@@ -19196,11 +19230,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1090158",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-08 09:12:18"
     }
   },
   {
@@ -20933,12 +20968,11 @@
     "longitude": "-21.92584955",
     "legit_realestate_agent": "Börkur Hrafnsson",
     "openhouse": {
-      "property_id": "1088430",
-      "date": "2026-08-25",
-      "time_start": "17:15:00",
-      "time_end": "17:45:00",
-      "description": "Opið hús: Bergþórugata 3, 101 Reykjavík, Íbúð merkt: 01 03 01.  Eignin verður sýnd þriðjudaginn 25. ágúst 2026 milli kl. 17:30 og kl. 18:00.",
-      "added_at": "2026-08-05 16:08:07"
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
     }
   },
   {
@@ -21803,11 +21837,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1086838",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-08-01 06:56:59"
     }
   },
   {
@@ -23129,34 +23164,6 @@
     }
   },
   {
-    "id": "1083219",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Laugavegur",
-    "street_number": "168",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "81900000",
-    "size": "75,9",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1083219/5ac3b9c9df0d74275f077031c44fc4a6-469x310.jpg",
-    "latitude": "64.14187097",
-    "longitude": "-21.90361236",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1083106",
     "bedrooms": "3",
     "bathrooms": "2",
@@ -23457,11 +23464,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083016",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-22 21:34:26"
     }
   },
   {
@@ -23485,11 +23493,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083015",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-22 21:33:40"
     }
   },
   {
@@ -23513,11 +23522,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1083007",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-22 21:27:18"
     }
   },
   {
@@ -24101,39 +24111,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1081538",
-    "bedrooms": "5",
-    "bathrooms": "3",
-    "street_name": "Smáragata",
-    "street_number": "4",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "0",
-    "size": "369,2",
-    "category": "Einbýlishús",
-    "rooms": "9",
-    "images_nr": "55",
-    "image": "https://api-beta.fasteignir.is/pictures/1081538/7b5810a4ff57cd586d0230537e5cda27-469x310.jpg",
-    "latitude": null,
-    "longitude": null,
-    "legit_realestate_agent": "Berglind Hólm Birgisdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1081648",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-20 18:26:21"
     }
   },
   {
@@ -24185,11 +24168,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1081515",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-20 15:05:11"
     }
   },
   {
@@ -24353,11 +24337,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1081384",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-20 12:22:27"
     }
   },
   {
@@ -25277,11 +25262,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1077461",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-07-13 09:48:50"
     }
   },
   {
@@ -27769,11 +27755,12 @@
     "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1068795",
+      "date": "2026-08-30",
+      "time_start": "13:00:00",
+      "time_end": "14:00:00",
+      "description": "Velkomin, opið hús. Bókið skoðun; Jason sími 7751515 jason@betristofan.is ",
+      "added_at": "2026-06-26 10:04:34"
     }
   },
   {
@@ -28073,34 +28060,6 @@
     "rooms": "3",
     "images_nr": "32",
     "image": "https://api-beta.fasteignir.is/pictures/1066091/3565b86726a3c2d1ca97a84de444422a-469x310.jpg",
-    "latitude": "64.15211253",
-    "longitude": "21.95320158",
-    "legit_realestate_agent": "Kári Sighvatsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1066090",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Vesturvin V2 - íbúð 305",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "135500000",
-    "size": "241,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "43",
-    "image": "https://api-beta.fasteignir.is/pictures/1066090/6c8e41917d3a84067c26653dcb371f6a-469x310.jpg",
     "latitude": "64.15211253",
     "longitude": "21.95320158",
     "legit_realestate_agent": "Kári Sighvatsson",
