@@ -1,5 +1,398 @@
 [
   {
+    "id": "1111269",
+    "bedrooms": "1",
+    "bathrooms": "1",
+    "street_name": "Heklureitur",
+    "street_number": "L168",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "62900000",
+    "size": "53,2",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "16",
+    "image": "https://api-beta.fasteignir.is/pictures/1111269/ef7508c432b37af979ffb5e992bd1bde-469x310.jpg",
+    "latitude": "64.14187097",
+    "longitude": "-21.90361236",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111268",
+    "bedrooms": "2",
+    "bathrooms": "2",
+    "street_name": "Heklureitur",
+    "street_number": "L168 (306)",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "107900000",
+    "size": "97,2",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "17",
+    "image": "https://api-beta.fasteignir.is/pictures/1111268/fa461d26b86c4113dac34fde0f64ae66-469x310.jpg",
+    "latitude": "64.14187097",
+    "longitude": "-21.90361236",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111267",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Heklureitur",
+    "street_number": "L170 / 601",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "249000000",
+    "size": "181,3",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "42",
+    "image": "https://api-beta.fasteignir.is/pictures/1111267/8f9a794af9b66ad253391a793a47aee6-469x310.jpg",
+    "latitude": "64.14166281",
+    "longitude": "-21.90285184",
+    "legit_realestate_agent": "Jason Kristinn Ólafsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111261",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Meðalholt",
+    "street_number": "11",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "68900000",
+    "size": "77,3",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "20",
+    "image": "https://api-beta.fasteignir.is/pictures/1111261/fb3f82143c762104c4178537fcf04d7f-469x310.jpg",
+    "latitude": "64.13993301",
+    "longitude": "-21.91023452",
+    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111254",
+    "bedrooms": "3",
+    "bathrooms": "2",
+    "street_name": "Háteigsvegur 19 með útleiguherbergi",
+    "street_number": "",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "79900000",
+    "size": "90",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1111254/fae4a7bd2f85f54d897debb96d2e741b-469x310.jpg",
+    "latitude": "64.13909609",
+    "longitude": "-21.90987896",
+    "legit_realestate_agent": "Elka Guðmundsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111243",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Rekagrandi",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "89900000",
+    "size": "125,7",
+    "category": "Fjölbýlishús",
+    "rooms": "4",
+    "images_nr": "41",
+    "image": "https://api-beta.fasteignir.is/pictures/1111243/a2d341510874b70aea0b4a573feccfc3-469x310.jpg",
+    "latitude": "64.149033",
+    "longitude": "-21.97277504",
+    "legit_realestate_agent": "Margrét Rós Einarsdóttir",
+    "openhouse": {
+      "property_id": "1111243",
+      "date": "2026-09-17",
+      "time_start": "18:00:00",
+      "time_end": "18:30:00",
+      "description": "Rekagrandi 7, 107 Reykjavík, Íbúð merkt: 201.  Eignin verður sýnd fimmtudaginn 17. september 2026 milli kl. 18:00 og kl. 18:30.",
+      "added_at": "2026-09-14 20:07:13"
+    }
+  },
+  {
+    "id": "1111241",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Hjarðarhagi",
+    "street_number": "36",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "82,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "21",
+    "image": "https://api-beta.fasteignir.is/pictures/1111241/f7137f6b124254a453911e025bd556ca-469x310.jpg",
+    "latitude": "64.13952082",
+    "longitude": "-21.9588788",
+    "legit_realestate_agent": "Monika Hjálmtýsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111240",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Þverholt",
+    "street_number": "28",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "78900000",
+    "size": "85,6",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1111240/269777b682cd90b0567a6dd895a2beee-469x310.jpg",
+    "latitude": "64.14029814",
+    "longitude": "-21.91395345",
+    "legit_realestate_agent": "Hreiðar Levý Guðmundsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111229",
+    "bedrooms": "3",
+    "bathrooms": "1",
+    "street_name": "Bragagata",
+    "street_number": "25",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "98000000",
+    "size": "98,2",
+    "category": "Hæð",
+    "rooms": "4",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1111229/3d91c8a441b7f93d6f8bbc89e3636ed7-469x310.jpg",
+    "latitude": "64.14214507",
+    "longitude": "-21.93275759",
+    "legit_realestate_agent": "Daði Runólfsson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111195",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Barmahlíð",
+    "street_number": "6",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "59900000",
+    "size": "72,5",
+    "category": "Hæð",
+    "rooms": "3",
+    "images_nr": "26",
+    "image": "https://api-beta.fasteignir.is/pictures/1111195/ffba0405aad09caf6c42d2b912d14ab0-469x310.jpg",
+    "latitude": "64.13485183",
+    "longitude": "-21.9159685",
+    "legit_realestate_agent": "Vilborg Gunnarsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111193",
+    "bedrooms": "1",
+    "bathrooms": "0",
+    "street_name": "Kirkjutorg",
+    "street_number": "6",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "73900000",
+    "size": "67,1",
+    "category": "Fjölbýlishús",
+    "rooms": "2",
+    "images_nr": "22",
+    "image": "https://api-beta.fasteignir.is/pictures/1111193/fab4f64d5fcb458b56d9652960bfaae4-469x310.jpg",
+    "latitude": "64.14635256",
+    "longitude": "-21.93914847",
+    "legit_realestate_agent": "Vilborg Gunnarsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111185",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Grandavegur",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "107",
+      "town": "Reykjavík"
+    },
+    "price": "69900000",
+    "size": "68,8",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "33",
+    "image": "https://api-beta.fasteignir.is/pictures/1111185/f9e8bcdfeec82ef85298cf7b223509ca-469x310.jpg",
+    "latitude": "64.1485457",
+    "longitude": "-21.96062858",
+    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111167",
+    "bedrooms": null,
+    "bathrooms": null,
+    "street_name": "Grandagarður",
+    "street_number": "7",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "101",
+      "town": "Reykjavík"
+    },
+    "price": "0",
+    "size": "240",
+    "category": "Atvinnuhúsnæði",
+    "rooms": "0",
+    "images_nr": "3",
+    "image": "https://api-beta.fasteignir.is/pictures/1111167/b5cb62b4c594da96b5020dff217c16b6-469x310.jpg",
+    "latitude": "64.153255",
+    "longitude": "-21.950618",
+    "legit_realestate_agent": "Gabríel Máni Hallson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1111166",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Borgartún",
+    "street_number": "24",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "79900000",
+    "size": "81,4",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "29",
+    "image": "https://api-beta.fasteignir.is/pictures/1111166/3d789f2217b3f3b8d96f592c2265e914-469x310.jpg",
+    "latitude": "64.14535959",
+    "longitude": "-21.90159409",
+    "legit_realestate_agent": "Arinbjörn Marinósson",
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
     "id": "1111159",
     "bedrooms": "0",
     "bathrooms": "1",
@@ -128,16 +521,17 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1111128/4ddc0d28fda2aaa536afcaca8aff2b97-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1111128/1cc02564637856f9485ae8b9f3a27553-469x310.jpg",
     "latitude": "64.145305",
     "longitude": "-21.900156",
     "legit_realestate_agent": "Böðvar Eggertsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1111128",
+      "date": "2026-09-16",
+      "time_start": "18:00:00",
+      "time_end": "18:30:00",
+      "description": null,
+      "added_at": "2026-09-14 15:39:42"
     }
   },
   {
@@ -527,11 +921,12 @@
     "longitude": "-21.95698555",
     "legit_realestate_agent": "Margrét Rós Einarsdóttir",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1110992",
+      "date": "2026-09-17",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Víðimelur 64, 107 Reykjavík - 2. hæð og kjallari. Eignin verður sýnd fimmtudaginn 17. september 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-09-14 11:50:58"
     }
   },
   {
@@ -1771,16 +2166,17 @@
     "category": "Fjölbýlishús",
     "rooms": "4",
     "images_nr": "24",
-    "image": "https://api-beta.fasteignir.is/pictures/1110569/0090beeed2d579ae7ee46765c56b474a-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1110569/56b7635143480be9c0f578a8ffda4357-469x310.jpg",
     "latitude": "64.134857",
     "longitude": "-21.913666",
     "legit_realestate_agent": "Böðvar Eggertsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1110569",
+      "date": "2026-09-16",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": null,
+      "added_at": "2026-09-14 15:33:12"
     }
   },
   {
@@ -7006,34 +7402,6 @@
     }
   },
   {
-    "id": "1108970",
-    "bedrooms": null,
-    "bathrooms": null,
-    "street_name": "Grandagarður",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "0",
-    "size": "240",
-    "category": "Atvinnuhúsnæði",
-    "rooms": "0",
-    "images_nr": "3",
-    "image": "https://api-beta.fasteignir.is/pictures/1108970/624b70f0e181114a8cb9ec4e7f4979ab-469x310.jpg",
-    "latitude": "64.153255",
-    "longitude": "-21.950618",
-    "legit_realestate_agent": "Gabríel Máni Hallson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1108968",
     "bedrooms": "2",
     "bathrooms": "1",
@@ -7474,34 +7842,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1108666/3ba3c79a08fe70e092f83780a3386cf3-469x310.jpg",
     "latitude": "64.14218004",
     "longitude": "-21.91223322",
-    "legit_realestate_agent": "Brynjar Þór Sumarliðason",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1108662",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Álagrandi",
-    "street_number": "8",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "64900000",
-    "size": "80,8",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "27",
-    "image": "https://api-beta.fasteignir.is/pictures/1108662/e362fc735646273f5bf9169a00063e8f-469x310.jpg",
-    "latitude": "64.14908466",
-    "longitude": "-21.96500577",
     "legit_realestate_agent": "Brynjar Þór Sumarliðason",
     "openhouse": {
       "property": null,
@@ -9142,34 +9482,6 @@
     }
   },
   {
-    "id": "1107809",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Meðalholt",
-    "street_number": "11",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "68900000",
-    "size": "77,3",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "20",
-    "image": "https://api-beta.fasteignir.is/pictures/1107809/2e47ff8f1e9b24b24b4856f7d57c8b52-469x310.jpg",
-    "latitude": "64.13993301",
-    "longitude": "-21.91023452",
-    "legit_realestate_agent": "Gunnar Bergmann Jónsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1107808",
     "bedrooms": "3",
     "bathrooms": "2",
@@ -10027,16 +10339,17 @@
     "category": "Fjölbýlishús",
     "rooms": "3",
     "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1107417/798114fd104f9283f0ebc506f5b08f14-469x310.jpg",
+    "image": "https://api-beta.fasteignir.is/pictures/1107417/717da0f90f5b8e40184807cbe335b3e2-469x310.jpg",
     "latitude": "64.15106682",
     "longitude": "-21.87975416",
     "legit_realestate_agent": "Aðalsteinn Jón Bergdal",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1107417",
+      "date": "2026-09-23",
+      "time_start": "17:00:00",
+      "time_end": "17:30:00",
+      "description": "Opið hús: Kleppsvegur 12, 105 Reykjavík, Íbúð merkt: 01 01 05.  Eignin verður sýnd miðvikudaginn 23. september 2026 milli kl. 17:00 og kl. 17:30.",
+      "added_at": "2026-09-14 15:35:24"
     }
   },
   {
@@ -14247,34 +14560,6 @@
     }
   },
   {
-    "id": "1105131",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Borgartún",
-    "street_number": "24",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "79900000",
-    "size": "81,4",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1105131/47ce351aadd79a1b28121f5d6a28f647-469x310.jpg",
-    "latitude": "64.14535959",
-    "longitude": "-21.90159409",
-    "legit_realestate_agent": "Arinbjörn Marinósson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1105126",
     "bedrooms": "5",
     "bathrooms": "3",
@@ -16547,34 +16832,6 @@
     }
   },
   {
-    "id": "1103835",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Rekagrandi",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "89900000",
-    "size": "125,7",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "41",
-    "image": "https://api-beta.fasteignir.is/pictures/1103835/3e5a64e2ba2ebb927bde9cc6b9e81406-469x310.jpg",
-    "latitude": "64.149033",
-    "longitude": "-21.97277504",
-    "legit_realestate_agent": "Margrét Rós Einarsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1103772",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -17612,62 +17869,6 @@
     }
   },
   {
-    "id": "1103379",
-    "bedrooms": "1",
-    "bathrooms": "0",
-    "street_name": "Kirkjutorg",
-    "street_number": "6",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "73900000",
-    "size": "67,1",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "22",
-    "image": "https://api-beta.fasteignir.is/pictures/1103379/5b37477e021688014bf401c48afd06e7-469x310.jpg",
-    "latitude": "64.14635256",
-    "longitude": "-21.93914847",
-    "legit_realestate_agent": "Vilborg Gunnarsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1103357",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Barmahlíð",
-    "street_number": "6",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "59900000",
-    "size": "72,5",
-    "category": "Hæð",
-    "rooms": "3",
-    "images_nr": "26",
-    "image": "https://api-beta.fasteignir.is/pictures/1103357/61543d276db558997db6e7a02c9c0816-469x310.jpg",
-    "latitude": "64.13485183",
-    "longitude": "-21.9159685",
-    "legit_realestate_agent": "Vilborg Gunnarsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1103328",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -17799,34 +18000,6 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": "Óskar Þór Hilmarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "407277",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Hjarðarhagi",
-    "street_number": "36",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "82,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "21",
-    "image": "https://api-beta.fasteignir.is/pictures/407277/4e71f0755c18553f0c63564eecc03796-469x310.jpg",
-    "latitude": "64.13952082",
-    "longitude": "-21.9588788",
-    "legit_realestate_agent": "Monika Hjálmtýsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -19435,34 +19608,6 @@
     }
   },
   {
-    "id": "1101655",
-    "bedrooms": "3",
-    "bathrooms": "1",
-    "street_name": "Bragagata",
-    "street_number": "25",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "101",
-      "town": "Reykjavík"
-    },
-    "price": "98000000",
-    "size": "98,2",
-    "category": "Hæð",
-    "rooms": "4",
-    "images_nr": "22",
-    "image": "https://api-beta.fasteignir.is/pictures/1101655/6e89b5699591222a784eb3fa64274452-469x310.jpg",
-    "latitude": "64.14214507",
-    "longitude": "-21.93275759",
-    "legit_realestate_agent": "Daði Runólfsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "1101640",
     "bedrooms": "3",
     "bathrooms": "2",
@@ -19771,34 +19916,6 @@
     }
   },
   {
-    "id": "1101137",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Grandavegur",
-    "street_number": "7",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "107",
-      "town": "Reykjavík"
-    },
-    "price": "69900000",
-    "size": "68,8",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "33",
-    "image": "https://api-beta.fasteignir.is/pictures/1101137/cadc9e8da011acc1254cb36a1a1f1330-469x310.jpg",
-    "latitude": "64.1485457",
-    "longitude": "-21.96062858",
-    "legit_realestate_agent": "Unnur Ýr Jónsdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
     "id": "948478",
     "bedrooms": "1",
     "bathrooms": "1",
@@ -20043,11 +20160,12 @@
     "longitude": "-21.96014592",
     "legit_realestate_agent": "Páll Pálsson",
     "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
+      "property_id": "1100763",
+      "date": "2026-09-17",
+      "time_start": "17:15:00",
+      "time_end": "17:45:00",
+      "description": "Opið hús: Hringbraut 119, 101 Reykjavík, Íbúð merkt: 01 03 01.  Eignin verður sýnd fimmtudaginn 17. september 2026 milli kl. 17:15 og kl. 17:45.",
+      "added_at": "2026-09-14 20:56:40"
     }
   },
   {
@@ -20154,34 +20272,6 @@
     "latitude": "64.15681996",
     "longitude": "-21.95120952",
     "legit_realestate_agent": "Þorgeir Símonarsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1100513",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Háteigsvegur 19 með útleiguherbergi",
-    "street_number": "",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "79900000",
-    "size": "90",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "26",
-    "image": "https://api-beta.fasteignir.is/pictures/1100513/90321919497bc40a46245b97e2c33538-469x310.jpg",
-    "latitude": "64.13909609",
-    "longitude": "-21.90987896",
-    "legit_realestate_agent": "Elka Guðmundsdóttir",
     "openhouse": {
       "property": null,
       "date": null,
@@ -20489,90 +20579,6 @@
     "image": "https://api-beta.fasteignir.is/pictures/1100263/e205d9ae8d43e467bee634d01ee0605b-469x310.jpg",
     "latitude": "64.14633508",
     "longitude": "-21.95648112",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1100262",
-    "bedrooms": "3",
-    "bathrooms": "2",
-    "street_name": "Heklureitur",
-    "street_number": "L170 / 601",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "249000000",
-    "size": "181,3",
-    "category": "Fjölbýlishús",
-    "rooms": "4",
-    "images_nr": "42",
-    "image": "https://api-beta.fasteignir.is/pictures/1100262/21a39b75640b9e958a4d11f2d6c67ba1-469x310.jpg",
-    "latitude": "64.14166281",
-    "longitude": "-21.90285184",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1100261",
-    "bedrooms": "2",
-    "bathrooms": "2",
-    "street_name": "Heklureitur",
-    "street_number": "L168 (306)",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "107900000",
-    "size": "97,2",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "17",
-    "image": "https://api-beta.fasteignir.is/pictures/1100261/73f71515dce9ec36d367739c2ede21ee-469x310.jpg",
-    "latitude": "64.14187097",
-    "longitude": "-21.90361236",
-    "legit_realestate_agent": "Jason Kristinn Ólafsson",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1100260",
-    "bedrooms": "1",
-    "bathrooms": "1",
-    "street_name": "Heklureitur",
-    "street_number": "L168",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "62900000",
-    "size": "53,2",
-    "category": "Fjölbýlishús",
-    "rooms": "2",
-    "images_nr": "16",
-    "image": "https://api-beta.fasteignir.is/pictures/1100260/2b0fa9e56cd8445d8847a20cdf28ef08-469x310.jpg",
-    "latitude": "64.14187097",
-    "longitude": "-21.90361236",
     "legit_realestate_agent": "Jason Kristinn Ólafsson",
     "openhouse": {
       "property": null,
@@ -21583,34 +21589,6 @@
     "latitude": "64.14294185",
     "longitude": "-21.91955851",
     "legit_realestate_agent": "Ingibjörg Reynisdóttir",
-    "openhouse": {
-      "property": null,
-      "date": null,
-      "time_start": null,
-      "time_end": null,
-      "description": null
-    }
-  },
-  {
-    "id": "1098567",
-    "bedrooms": "2",
-    "bathrooms": "1",
-    "street_name": "Þverholt",
-    "street_number": "28",
-    "sale_or_rent": "1",
-    "zip": {
-      "zip": "105",
-      "town": "Reykjavík"
-    },
-    "price": "78900000",
-    "size": "85,6",
-    "category": "Fjölbýlishús",
-    "rooms": "3",
-    "images_nr": "29",
-    "image": "https://api-beta.fasteignir.is/pictures/1098567/9fa09c6e4d90b3f35e7a1827636f4b6e-469x310.jpg",
-    "latitude": "64.14029814",
-    "longitude": "-21.91395345",
-    "legit_realestate_agent": "Hreiðar Levý Guðmundsson",
     "openhouse": {
       "property": null,
       "date": null,
@@ -28054,6 +28032,34 @@
     "latitude": null,
     "longitude": null,
     "legit_realestate_agent": null,
+    "openhouse": {
+      "property": null,
+      "date": null,
+      "time_start": null,
+      "time_end": null,
+      "description": null
+    }
+  },
+  {
+    "id": "1074812",
+    "bedrooms": "2",
+    "bathrooms": "1",
+    "street_name": "Laugaborg íbúð",
+    "street_number": "216",
+    "sale_or_rent": "1",
+    "zip": {
+      "zip": "105",
+      "town": "Reykjavík"
+    },
+    "price": "84000000",
+    "size": "83,5",
+    "category": "Fjölbýlishús",
+    "rooms": "3",
+    "images_nr": "13",
+    "image": "https://api-beta.fasteignir.is/pictures/1074812/5733e45da00f412a0d855ef782f64c04-469x310.jpg",
+    "latitude": null,
+    "longitude": null,
+    "legit_realestate_agent": "Aðalsteinn Jón Bergdal",
     "openhouse": {
       "property": null,
       "date": null,
