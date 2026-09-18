@@ -1,9 +1,7 @@
 name: Scan house listings
 
 on:
-  schedule:
-    # GitHub cron is UTC. Iceland is UTC year-round.
-    - cron: "7 8,13,19 * * *"
+  # Scheduled scans are disabled. Run this workflow manually when needed.
   workflow_dispatch:
 
 permissions:
